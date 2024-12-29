@@ -1,0 +1,25 @@
+{
+    "id": "A1/126",
+    "entry": 126,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Mr. Mime",
+    "type": "Psychic",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Barrier Attack",
+            "damage": "30",
+            "cost": "Psychic Colorless",
+            "effect": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp",
+    "versions": []
+}

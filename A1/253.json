@@ -1,0 +1,35 @@
+{
+    "id": "A1/253",
+    "entry": 253,
+    "source": "Charizard Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Charizard ex",
+    "type": "Fire",
+    "hp": 180,
+    "stage": "Stage 2",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Slash",
+            "damage": "60",
+            "cost": "Fire Colorless Colorless",
+            "effect": ""
+        },
+        {
+            "name": "Crimson Storm",
+            "damage": "200",
+            "cost": "Fire Fire Colorless Colorless",
+            "effect": "Discard 2 Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp",
+    "versions": [
+        "A1/36",
+        "A1/280",
+        "A1/284"
+    ]
+}

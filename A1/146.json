@@ -1,0 +1,28 @@
+{
+    "id": "A1/146",
+    "entry": 146,
+    "source": "Charizard Pack",
+    "rarity": 4,
+    "layout": "Pokemon",
+    "name": "Machamp ex",
+    "type": "Fighting",
+    "hp": 180,
+    "stage": "Stage 2",
+    "weakness": "Psychic",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Mega Punch",
+            "damage": "120",
+            "cost": "Fighting Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
+    "versions": [
+        "A1/263",
+        "A1/278"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/239",
+    "entry": 239,
+    "source": "Mewtwo Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Cubone",
+    "type": "Fighting",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Grass",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Growl",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp",
+    "versions": [
+        "A1/151"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "P-A/30",
+    "entry": 30,
+    "source": "Promo Pack",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Growl",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "During your opponent's next turn, attacks used by the Defending Pokemon do \u221220 damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
+    "versions": []
+}

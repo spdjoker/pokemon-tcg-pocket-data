@@ -1,0 +1,25 @@
+{
+    "id": "A1/110",
+    "entry": 110,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Helioptile",
+    "type": "Lightning",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tail Whap",
+            "damage": "20",
+            "cost": "Lightning",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp",
+    "versions": []
+}

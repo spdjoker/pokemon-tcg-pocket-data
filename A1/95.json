@@ -1,0 +1,25 @@
+{
+    "id": "A1/95",
+    "entry": 95,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Raichu",
+    "type": "Lightning",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Thunderbolt",
+            "damage": "140",
+            "cost": "Lightning Lightning Lightning",
+            "effect": "Discard all Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1a/45",
+    "entry": 45,
+    "source": "Mew Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Golem",
+    "type": "Fighting",
+    "hp": 160,
+    "stage": "Stage 2",
+    "weakness": "Grass",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Guard Press",
+            "damage": "120",
+            "cost": "Fighting Fighting Fighting Colorless",
+            "effect": "During your opponent's next turn, this Pokemon takes \u221230 damage from attacks."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
+    "versions": []
+}

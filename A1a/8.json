@@ -1,0 +1,25 @@
+{
+    "id": "A1a/8",
+    "entry": 8,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Shiinotic",
+    "type": "Grass",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Flickering Spores",
+            "damage": "50",
+            "cost": "Grass Grass",
+            "effect": "Your opponent's Active Pokemon is now Asleep."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
+    "versions": []
+}

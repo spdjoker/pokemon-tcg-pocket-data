@@ -1,0 +1,25 @@
+{
+    "id": "A1/149",
+    "entry": 149,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Golem",
+    "type": "Fighting",
+    "hp": 160,
+    "stage": "Stage 2",
+    "weakness": "Grass",
+    "retreat": 4,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Double-Edge",
+            "damage": "150",
+            "cost": "Fighting Colorless Colorless Colorless",
+            "effect": "This Pokemon also does 50 damage to itself."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
+    "versions": []
+}

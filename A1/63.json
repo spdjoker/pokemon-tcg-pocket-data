@@ -1,0 +1,25 @@
+{
+    "id": "A1/63",
+    "entry": 63,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Tentacruel",
+    "type": "Water",
+    "hp": 110,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Poison Tentacles",
+            "damage": "50",
+            "cost": "Water Colorless",
+            "effect": "Your opponent's Active Pokemon is now Poisoned."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp",
+    "versions": []
+}

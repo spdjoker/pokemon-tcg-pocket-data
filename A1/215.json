@@ -1,0 +1,25 @@
+{
+    "id": "A1/215",
+    "entry": 215,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Dubwool",
+    "type": "Colorless",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Rolling Tackle",
+            "damage": "80",
+            "cost": "Colorless Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/108",
+    "entry": 108,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Eelektrik",
+    "type": "Lightning",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Head Bolt",
+            "damage": "40",
+            "cost": "Lightning",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp",
+    "versions": []
+}

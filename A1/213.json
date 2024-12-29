@@ -1,0 +1,27 @@
+{
+    "id": "A1/213",
+    "entry": 213,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Cinccino",
+    "type": "Colorless",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Do the Wave",
+            "damage": "30x",
+            "cost": "Colorless Colorless Colorless",
+            "effect": "This attack does 30 damage for each of your Benched Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp",
+    "versions": [
+        "P-A/31"
+    ]
+}

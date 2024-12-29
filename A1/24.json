@@ -1,0 +1,25 @@
+{
+    "id": "A1/24",
+    "entry": 24,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Tangela",
+    "type": "Grass",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Absorb",
+            "damage": "40",
+            "cost": "Grass Colorless",
+            "effect": "Heal 10 damage from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp",
+    "versions": []
+}

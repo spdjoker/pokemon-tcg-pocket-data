@@ -1,0 +1,25 @@
+{
+    "id": "A1/184",
+    "entry": 184,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Dragonair",
+    "type": "Dragon",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "None",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tail Smack",
+            "damage": "80",
+            "cost": "Water Lightning Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp",
+    "versions": []
+}

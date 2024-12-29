@@ -1,0 +1,25 @@
+{
+    "id": "A1/93",
+    "entry": 93,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Frosmoth",
+    "type": "Water",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Metal",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Powder Snow",
+            "damage": "40",
+            "cost": "Water Colorless",
+            "effect": "Your opponent's Active Pokemon is now Asleep."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/37",
+    "entry": 37,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Vulpix",
+    "type": "Fire",
+    "hp": 50,
+    "stage": "Basic",
+    "weakness": "Water",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tail Whip",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "Flip a coin. If heads, the Defending Pokemon can't attack during your opponent's next turn."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp",
+    "versions": []
+}

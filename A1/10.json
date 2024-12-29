@@ -1,0 +1,25 @@
+{
+    "id": "A1/10",
+    "entry": 10,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Beedrill",
+    "type": "Grass",
+    "hp": 120,
+    "stage": "Stage 2",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Sharp Sting",
+            "damage": "70",
+            "cost": "Grass",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
+    "versions": []
+}

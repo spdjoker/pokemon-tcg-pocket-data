@@ -1,0 +1,25 @@
+{
+    "id": "A1/114",
+    "entry": 114,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Clefable",
+    "type": "Psychic",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Metal",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Magical Shot",
+            "damage": "40",
+            "cost": "Psychic",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp",
+    "versions": []
+}

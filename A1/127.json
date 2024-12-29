@@ -1,0 +1,25 @@
+{
+    "id": "A1/127",
+    "entry": 127,
+    "source": "Mewtwo Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Jynx",
+    "type": "Psychic",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Psychic",
+            "damage": "30+",
+            "cost": "Psychic Colorless",
+            "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp",
+    "versions": []
+}

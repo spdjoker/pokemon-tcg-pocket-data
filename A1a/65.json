@@ -1,0 +1,13 @@
+{
+    "id": "A1a/65",
+    "entry": 65,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Trainer",
+    "name": "Mythical Slab",
+    "type": "Item",
+    "hp": 0,
+    "effect": "Look at the top card of your deck. If that card is a Psychic Pokemon, put it into your hand. If it is not a Psychic Pokemon, put it on the bottom of your deck.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp",
+    "versions": []
+}

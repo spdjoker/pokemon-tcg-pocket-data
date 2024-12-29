@@ -1,0 +1,29 @@
+{
+    "id": "A1/182",
+    "entry": 182,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Melmetal",
+    "type": "Metal",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 3,
+    "has_ability": true,
+    "ability": {
+        "name": "Hard Coat",
+        "effect": "This Pokemon takes -20 damage from attacks."
+    },
+    "moves": [
+        {
+            "name": "Heavy Impact",
+            "damage": "120",
+            "cost": "Metal Metal Metal Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
+    "versions": []
+}

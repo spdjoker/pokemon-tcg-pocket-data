@@ -1,0 +1,27 @@
+{
+    "id": "A1a/31",
+    "entry": 31,
+    "source": "Mew Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Mew",
+    "type": "Psychic",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Psy Report",
+            "damage": "20",
+            "cost": "Psychic",
+            "effect": "Your opponent reveals their hand."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
+    "versions": [
+        "A1/283"
+    ]
+}

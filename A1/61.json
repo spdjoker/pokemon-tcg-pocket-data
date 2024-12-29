@@ -1,0 +1,29 @@
+{
+    "id": "A1/61",
+    "entry": 61,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Poliwrath",
+    "type": "Water",
+    "hp": 150,
+    "stage": "Stage 2",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Counterattack",
+        "effect": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the attacking Pokemon."
+    },
+    "moves": [
+        {
+            "name": "Mega Punch",
+            "damage": "80",
+            "cost": "Water Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1a/79",
+    "entry": 79,
+    "source": "Mew Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Pidgeot ex",
+    "type": "Colorless",
+    "hp": 170,
+    "stage": "Stage 2",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Scattering Cyclone",
+            "damage": "80+",
+            "cost": "Colorless Colorless Colorless",
+            "effect": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+    "versions": [
+        "A1a/59"
+    ]
+}

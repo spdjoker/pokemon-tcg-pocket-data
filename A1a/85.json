@@ -1,0 +1,28 @@
+{
+    "id": "A1a/85",
+    "entry": 85,
+    "source": "Mew Pack",
+    "rarity": 7,
+    "layout": "Pokemon",
+    "name": "Celebi ex",
+    "type": "Grass",
+    "hp": 130,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Powerful Bloom",
+            "damage": "50x",
+            "cost": "Grass Colorless",
+            "effect": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp",
+    "versions": [
+        "A1a/3",
+        "A1a/75"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/179",
+    "entry": 179,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Pawniard",
+    "type": "Metal",
+    "hp": 50,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Pierce",
+            "damage": "30",
+            "cost": "Metal",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp",
+    "versions": []
+}

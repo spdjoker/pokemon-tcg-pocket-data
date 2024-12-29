@@ -1,0 +1,31 @@
+{
+    "id": "A1a/72",
+    "entry": 72,
+    "source": "Mew Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Vaporeon",
+    "type": "Water",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Wash Out",
+        "effect": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokemon to your Active Water Pokemon."
+    },
+    "moves": [
+        {
+            "name": "Wave Splash",
+            "damage": "60",
+            "cost": "Water Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
+    "versions": [
+        "A1a/19"
+    ]
+}

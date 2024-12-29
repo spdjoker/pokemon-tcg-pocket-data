@@ -1,0 +1,25 @@
+{
+    "id": "A1/64",
+    "entry": 64,
+    "source": "Pikachu Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Seel",
+    "type": "Water",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Headbutt",
+            "damage": "30",
+            "cost": "Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp",
+    "versions": []
+}

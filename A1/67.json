@@ -1,0 +1,29 @@
+{
+    "id": "A1/67",
+    "entry": 67,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Cloyster",
+    "type": "Water",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 3,
+    "has_ability": true,
+    "ability": {
+        "name": "Shell Armor",
+        "effect": "This Pokemon takes -10 damage from attacks."
+    },
+    "moves": [
+        {
+            "name": "Surf",
+            "damage": "70",
+            "cost": "Water Water Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
+    "versions": []
+}

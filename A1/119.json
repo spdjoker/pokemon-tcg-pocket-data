@@ -1,0 +1,25 @@
+{
+    "id": "A1/119",
+    "entry": 119,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Slowbro",
+    "type": "Psychic",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Darkness",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Super Psy Bolt",
+            "damage": "80",
+            "cost": "Psychic Psychic Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp",
+    "versions": []
+}

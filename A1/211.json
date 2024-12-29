@@ -1,0 +1,27 @@
+{
+    "id": "A1/211",
+    "entry": 211,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Snorlax",
+    "type": "Colorless",
+    "hp": 150,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 4,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Rollout",
+            "damage": "70",
+            "cost": "Colorless Colorless Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
+    "versions": [
+        "A1/250"
+    ]
+}

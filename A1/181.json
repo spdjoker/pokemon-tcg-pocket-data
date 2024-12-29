@@ -1,0 +1,25 @@
+{
+    "id": "A1/181",
+    "entry": 181,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Meltan",
+    "type": "Metal",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Amass",
+            "damage": "",
+            "cost": "Metal",
+            "effect": "Take 1 Metal Energy from your Energy Zone and attach it to this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp",
+    "versions": []
+}

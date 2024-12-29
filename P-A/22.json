@@ -1,0 +1,25 @@
+{
+    "id": "P-A/22",
+    "entry": 22,
+    "source": "Promo Pack",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Jigglypuff",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Sing",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "Your opponent's Active Pokemon is now Asleep."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,33 @@
+{
+    "id": "A1/251",
+    "entry": 251,
+    "source": "Mewtwo Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Venusaur ex",
+    "type": "Grass",
+    "hp": 190,
+    "stage": "Stage 2",
+    "weakness": "Fire",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Razor Leaf",
+            "damage": "60",
+            "cost": "Grass Colorless Colorless",
+            "effect": ""
+        },
+        {
+            "name": "Giant Bloom",
+            "damage": "100",
+            "cost": "Grass Grass Colorless Colorless",
+            "effect": "Heal 30 damage from this Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp",
+    "versions": [
+        "A1/4"
+    ]
+}

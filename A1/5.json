@@ -1,0 +1,25 @@
+{
+    "id": "A1/5",
+    "entry": 5,
+    "source": "Pikachu Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Caterpie",
+    "type": "Grass",
+    "hp": 50,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Find a Friend",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "Put 1 random Grass Pokemon from your deck into your hand."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp",
+    "versions": []
+}

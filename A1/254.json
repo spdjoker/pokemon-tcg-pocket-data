@@ -1,0 +1,27 @@
+{
+    "id": "A1/254",
+    "entry": 254,
+    "source": "Pikachu Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Arcanine ex",
+    "type": "Fire",
+    "hp": 150,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Inferno Onrush",
+            "damage": "120",
+            "cost": "Fire Fire Colorless",
+            "effect": "This Pokemon also does 20 damage to itself."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp",
+    "versions": [
+        "A1/41"
+    ]
+}

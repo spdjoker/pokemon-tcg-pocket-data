@@ -1,0 +1,25 @@
+{
+    "id": "A1a/29",
+    "entry": 29,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Galvantula",
+    "type": "Lightning",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Electroweb",
+            "damage": "70",
+            "cost": "Lightning Lightning",
+            "effect": "During your opponent's next turn, the Defending Pokemon can't retreat."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
+    "versions": []
+}

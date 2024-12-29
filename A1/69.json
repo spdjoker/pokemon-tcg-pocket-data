@@ -1,0 +1,25 @@
+{
+    "id": "A1/69",
+    "entry": 69,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Kingler",
+    "type": "Water",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "KO Crab",
+            "damage": "80+",
+            "cost": "Water Water Colorless",
+            "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp",
+    "versions": []
+}

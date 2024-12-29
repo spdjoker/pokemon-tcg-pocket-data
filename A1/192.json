@@ -1,0 +1,25 @@
+{
+    "id": "A1/192",
+    "entry": 192,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Fearow",
+    "type": "Colorless",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Drill Run",
+            "damage": "50",
+            "cost": "Colorless Colorless",
+            "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/30",
+    "entry": 30,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Lilligant",
+    "type": "Grass",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Leaf Supply",
+            "damage": "50",
+            "cost": "Grass Grass",
+            "effect": "Take a Grass Energy from your Energy Zone and attach it to 1 of your Benched Grass Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp",
+    "versions": []
+}

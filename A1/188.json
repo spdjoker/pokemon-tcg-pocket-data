@@ -1,0 +1,31 @@
+{
+    "id": "A1/188",
+    "entry": 188,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Pidgeot",
+    "type": "Colorless",
+    "hp": 130,
+    "stage": "Stage 2",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": true,
+    "ability": {
+        "name": "Drive Off",
+        "effect": "Once during your turn, you may switch out your opponent's Active Pokemon to the Bench. (Your opponent chooses the new Active Pokemon.)"
+    },
+    "moves": [
+        {
+            "name": "Wing Attack",
+            "damage": "70",
+            "cost": "Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
+    "versions": [
+        "A1/245"
+    ]
+}

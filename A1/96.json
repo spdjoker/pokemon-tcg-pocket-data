@@ -1,0 +1,29 @@
+{
+    "id": "A1/96",
+    "entry": 96,
+    "source": "Pikachu Pack",
+    "rarity": 4,
+    "layout": "Pokemon",
+    "name": "Pikachu ex",
+    "type": "Lightning",
+    "hp": 120,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Circle Circuit",
+            "damage": "30x",
+            "cost": "Lightning Lightning",
+            "effect": "This attack does 30 damage for each of your Benched Lightning Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
+    "versions": [
+        "A1/259",
+        "A1/281",
+        "A1/285"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1a/48",
+    "entry": 48,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Stonjourner",
+    "type": "Fighting",
+    "hp": 120,
+    "stage": "Basic",
+    "weakness": "Grass",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Mega Kick",
+            "damage": "90",
+            "cost": "Fighting Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
+    "versions": []
+}

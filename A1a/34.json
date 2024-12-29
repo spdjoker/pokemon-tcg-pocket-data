@@ -1,0 +1,25 @@
+{
+    "id": "A1a/34",
+    "entry": 34,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Elgyem",
+    "type": "Psychic",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Headbutt",
+            "damage": "20",
+            "cost": "Psychic",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/231",
+    "entry": 231,
+    "source": "Charizard Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Rapidash",
+    "type": "Fire",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Fire Mane",
+            "damage": "40",
+            "cost": "Fire",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp",
+    "versions": [
+        "A1/43"
+    ]
+}

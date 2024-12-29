@@ -1,0 +1,29 @@
+{
+    "id": "A1/98",
+    "entry": 98,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Magneton",
+    "type": "Lightning",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Volt Charge",
+        "effect": "Once during your turn, you may take a Lightning Energy from your Energy Zone and attach it to this Pokemon."
+    },
+    "moves": [
+        {
+            "name": "Spinning Attack",
+            "damage": "60",
+            "cost": "Lightning Colorless Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
+    "versions": []
+}

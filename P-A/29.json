@@ -1,0 +1,27 @@
+{
+    "id": "P-A/29",
+    "entry": 29,
+    "source": "Promo Pack",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Blastoise",
+    "type": "Water",
+    "hp": 150,
+    "stage": "Stage 2",
+    "weakness": "Lightning",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Hydro Pump",
+            "damage": "80+",
+            "cost": "Water Water Colorless",
+            "effect": "If this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
+    "versions": [
+        "A1/55"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/80",
+    "entry": 80,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Vaporeon",
+    "type": "Water",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bubble Drain",
+            "damage": "60",
+            "cost": "Water Colorless Colorless",
+            "effect": "Heal 30 damage from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp",
+    "versions": []
+}

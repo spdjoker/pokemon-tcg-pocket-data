@@ -1,0 +1,31 @@
+{
+    "id": "A1/177",
+    "entry": 177,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Weezing",
+    "type": "Darkness",
+    "hp": 110,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 3,
+    "has_ability": true,
+    "ability": {
+        "name": "Gas Leak",
+        "effect": "Once during your turn, if this Pokemon is in the Active Spot, you may make your opponent's Active Pokemon Poisoned."
+    },
+    "moves": [
+        {
+            "name": "Tackle",
+            "damage": "30",
+            "cost": "Darkness",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp",
+    "versions": [
+        "A1/243"
+    ]
+}

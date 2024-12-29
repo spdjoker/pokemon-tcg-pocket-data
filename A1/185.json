@@ -1,0 +1,27 @@
+{
+    "id": "A1/185",
+    "entry": 185,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Dragonite",
+    "type": "Dragon",
+    "hp": 160,
+    "stage": "Stage 2",
+    "weakness": "None",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Draco Meteor",
+            "damage": "",
+            "cost": "Water Lightning Colorless Colorless",
+            "effect": "1 of your opponent's Pokemon is chosen at random 4 times. For each time a Pokemon was chosen, do 50 damage to it."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp",
+    "versions": [
+        "A1/244"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/150",
+    "entry": 150,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Onix",
+    "type": "Fighting",
+    "hp": 110,
+    "stage": "Basic",
+    "weakness": "Grass",
+    "retreat": 4,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Land Crush",
+            "damage": "70",
+            "cost": "Fighting Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp",
+    "versions": [
+        "P-A/21"
+    ]
+}

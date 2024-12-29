@@ -1,0 +1,34 @@
+{
+    "id": "A1/276",
+    "entry": 276,
+    "source": "Pikachu Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Zapdos ex",
+    "type": "Lightning",
+    "hp": 130,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Peck",
+            "damage": "20",
+            "cost": "Lightning",
+            "effect": ""
+        },
+        {
+            "name": "Thundering Hurricane",
+            "damage": "50x",
+            "cost": "Lightning Lightning Lightning",
+            "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp",
+    "versions": [
+        "A1/104",
+        "A1/260"
+    ]
+}

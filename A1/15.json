@@ -1,0 +1,25 @@
+{
+    "id": "A1/15",
+    "entry": 15,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Parasect",
+    "type": "Grass",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Slash",
+            "damage": "80",
+            "cost": "Grass Grass Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp",
+    "versions": []
+}

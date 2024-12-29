@@ -1,0 +1,25 @@
+{
+    "id": "A1/148",
+    "entry": 148,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Graveler",
+    "type": "Fighting",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Rollout",
+            "damage": "70",
+            "cost": "Fighting Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
+    "versions": []
+}

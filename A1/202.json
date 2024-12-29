@@ -1,0 +1,27 @@
+{
+    "id": "A1/202",
+    "entry": 202,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Chansey",
+    "type": "Colorless",
+    "hp": 120,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Gentle Slap",
+            "damage": "60",
+            "cost": "Colorless Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp",
+    "versions": [
+        "P-A/11"
+    ]
+}

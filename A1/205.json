@@ -1,0 +1,27 @@
+{
+    "id": "A1/205",
+    "entry": 205,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Ditto",
+    "type": "Colorless",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Copy Anything",
+            "damage": "",
+            "cost": "Colorless",
+            "effect": "Choose 1 of your opponent's Pokemon's attacks and use it as this attack. If this Pokemon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp",
+    "versions": [
+        "A1/247"
+    ]
+}

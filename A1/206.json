@@ -1,0 +1,29 @@
+{
+    "id": "A1/206",
+    "entry": 206,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tackle",
+            "damage": "20",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp",
+    "versions": [
+        "A1/207",
+        "A1/208",
+        "A1/248"
+    ]
+}

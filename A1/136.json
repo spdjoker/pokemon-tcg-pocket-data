@@ -1,0 +1,25 @@
+{
+    "id": "A1/136",
+    "entry": 136,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Golurk",
+    "type": "Psychic",
+    "hp": 140,
+    "stage": "Stage 1",
+    "weakness": "Darkness",
+    "retreat": 4,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Double Lariat",
+            "damage": "100x",
+            "cost": "Psychic Psychic Colorless Colorless",
+            "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp",
+    "versions": []
+}

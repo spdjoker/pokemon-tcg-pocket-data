@@ -1,0 +1,25 @@
+{
+    "id": "A1a/36",
+    "entry": 36,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Flab\u00e9b\u00e9",
+    "type": "Psychic",
+    "hp": 40,
+    "stage": "Basic",
+    "weakness": "Metal",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Hypnotic Gaze",
+            "damage": "",
+            "cost": "Psychic",
+            "effect": "Your opponent's Active Pokemon is now Asleep."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+    "versions": []
+}

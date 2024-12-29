@@ -1,0 +1,25 @@
+{
+    "id": "A1/32",
+    "entry": 32,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Gogoat",
+    "type": "Grass",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Razor Leaf",
+            "damage": "70",
+            "cost": "Grass Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/252",
+    "entry": 252,
+    "source": "Charizard Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Exeggutor ex",
+    "type": "Grass",
+    "hp": 160,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tropical Swing",
+            "damage": "40+",
+            "cost": "Grass",
+            "effect": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp",
+    "versions": [
+        "A1/23"
+    ]
+}

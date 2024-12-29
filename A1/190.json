@@ -1,0 +1,25 @@
+{
+    "id": "A1/190",
+    "entry": 190,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Raticate",
+    "type": "Colorless",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bite",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp",
+    "versions": []
+}

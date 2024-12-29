@@ -1,0 +1,25 @@
+{
+    "id": "A1/203",
+    "entry": 203,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Kangaskhan",
+    "type": "Colorless",
+    "hp": 100,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Dizzy Punch",
+            "damage": "30x",
+            "cost": "Colorless",
+            "effect": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,34 @@
+{
+    "id": "A1/84",
+    "entry": 84,
+    "source": "Mewtwo Pack",
+    "rarity": 4,
+    "layout": "Pokemon",
+    "name": "Articuno ex",
+    "type": "Water",
+    "hp": 140,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Ice Wing",
+            "damage": "40",
+            "cost": "Water Colorless",
+            "effect": ""
+        },
+        {
+            "name": "Blizzard",
+            "damage": "80",
+            "cost": "Water Water Water",
+            "effect": "This attack also does 10 damage to each of your opponent's Benched Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp",
+    "versions": [
+        "A1/258",
+        "A1/275"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/238",
+    "entry": 238,
+    "source": "Pikachu Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Diglett",
+    "type": "Fighting",
+    "hp": 50,
+    "stage": "Basic",
+    "weakness": "Grass",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Mud-Slap",
+            "damage": "20",
+            "cost": "Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp",
+    "versions": [
+        "A1/139"
+    ]
+}

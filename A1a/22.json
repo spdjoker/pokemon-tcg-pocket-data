@@ -1,0 +1,25 @@
+{
+    "id": "A1a/22",
+    "entry": 22,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Chewtle",
+    "type": "Water",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bite",
+            "damage": "30",
+            "cost": "Water Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
+    "versions": []
+}

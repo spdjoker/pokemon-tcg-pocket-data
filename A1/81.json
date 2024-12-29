@@ -1,0 +1,25 @@
+{
+    "id": "A1/81",
+    "entry": 81,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Omanyte",
+    "type": "Water",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Water Gun",
+            "damage": "40",
+            "cost": "Water",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp",
+    "versions": []
+}

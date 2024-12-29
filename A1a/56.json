@@ -1,0 +1,29 @@
+{
+    "id": "A1a/56",
+    "entry": 56,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Druddigon",
+    "type": "Dragon",
+    "hp": 100,
+    "stage": "Basic",
+    "weakness": "None",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Rough Skin",
+        "effect": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the Attacking Pokemon."
+    },
+    "moves": [
+        {
+            "name": "Dragon Claw",
+            "damage": "90",
+            "cost": "Fire Water Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+    "versions": []
+}

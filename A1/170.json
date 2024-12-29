@@ -1,0 +1,25 @@
+{
+    "id": "A1/170",
+    "entry": 170,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Nidorino",
+    "type": "Darkness",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Horn Attack",
+            "damage": "40",
+            "cost": "Darkness Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp",
+    "versions": []
+}

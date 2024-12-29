@@ -1,0 +1,25 @@
+{
+    "id": "A1/167",
+    "entry": 167,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Nidorina",
+    "type": "Darkness",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bite",
+            "damage": "30",
+            "cost": "Darkness",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/161",
+    "entry": 161,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Mienshao",
+    "type": "Fighting",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Psychic",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Spiral Kick",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp",
+    "versions": []
+}

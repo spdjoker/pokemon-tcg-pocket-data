@@ -1,0 +1,25 @@
+{
+    "id": "A1a/33",
+    "entry": 33,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Sigilyph",
+    "type": "Psychic",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Spike Draw",
+            "damage": "10",
+            "cost": "Psychic",
+            "effect": "Draw a card."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp",
+    "versions": []
+}

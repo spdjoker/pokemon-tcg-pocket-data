@@ -1,0 +1,25 @@
+{
+    "id": "A1a/12",
+    "entry": 12,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Magmar",
+    "type": "Fire",
+    "hp": 80,
+    "stage": "Basic",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Fire Blast",
+            "damage": "80",
+            "cost": "Fire Fire",
+            "effect": "Discard 2 Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
+    "versions": []
+}

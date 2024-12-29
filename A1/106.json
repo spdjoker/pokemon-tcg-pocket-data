@@ -1,0 +1,25 @@
+{
+    "id": "A1/106",
+    "entry": 106,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Zebstrika",
+    "type": "Lightning",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Thunder Spear",
+            "damage": "",
+            "cost": "Lightning",
+            "effect": "This attack does 30 damage to 1 of your opponent's Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp",
+    "versions": []
+}

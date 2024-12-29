@@ -1,0 +1,15 @@
+{
+    "id": "A1a/82",
+    "entry": 82,
+    "source": "Mew Pack",
+    "rarity": 6,
+    "layout": "Trainer",
+    "name": "Leaf",
+    "type": "Supporter",
+    "hp": 0,
+    "effect": "During this turn, the Retreat Cost of your Active Pokemon is 2 less.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp",
+    "versions": [
+        "A1a/68"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "P-A/3",
+    "entry": 3,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Trainer",
+    "name": "Hand Scope",
+    "type": "Item",
+    "hp": 0,
+    "effect": "Your opponent reveals their hand.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
+    "versions": []
+}

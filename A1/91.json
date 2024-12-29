@@ -1,0 +1,25 @@
+{
+    "id": "A1/91",
+    "entry": 91,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Bruxish",
+    "type": "Water",
+    "hp": 90,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Second Strike",
+            "damage": "10+",
+            "cost": "Water Colorless",
+            "effect": "If your opponent's Active Pokemon has damage on it, this attack does 60 more damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
+    "versions": []
+}

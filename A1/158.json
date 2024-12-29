@@ -1,0 +1,25 @@
+{
+    "id": "A1/158",
+    "entry": 158,
+    "source": "Charizard Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Kabuto",
+    "type": "Fighting",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Shell Attack",
+            "damage": "40",
+            "cost": "Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp",
+    "versions": []
+}

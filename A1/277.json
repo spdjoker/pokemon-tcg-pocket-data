@@ -1,0 +1,32 @@
+{
+    "id": "A1/277",
+    "entry": 277,
+    "source": "Mewtwo Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Gengar ex",
+    "type": "Psychic",
+    "hp": 170,
+    "stage": "Stage 2",
+    "weakness": "Darkness",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Shadowy Spellbind",
+        "effect": "As long as this Pokemon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+    },
+    "moves": [
+        {
+            "name": "Spooky Shot",
+            "damage": "100",
+            "cost": "Psychic Psychic Psychic",
+            "effect": ""
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp",
+    "versions": [
+        "A1/123",
+        "A1/261"
+    ]
+}

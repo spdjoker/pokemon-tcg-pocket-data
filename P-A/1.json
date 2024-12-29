@@ -1,0 +1,13 @@
+{
+    "id": "P-A/1",
+    "entry": 1,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Trainer",
+    "name": "Potion",
+    "type": "Item",
+    "hp": 0,
+    "effect": "Heal 20 damage from 1 of your Pokemon.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
+    "versions": []
+}

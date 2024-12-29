@@ -1,0 +1,25 @@
+{
+    "id": "A1/39",
+    "entry": 39,
+    "source": "Pikachu Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Growlithe",
+    "type": "Fire",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Water",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bite",
+            "damage": "20",
+            "cost": "Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/153",
+    "entry": 153,
+    "source": "Mewtwo Pack",
+    "rarity": 4,
+    "layout": "Pokemon",
+    "name": "Marowak ex",
+    "type": "Fighting",
+    "hp": 140,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bonemerang",
+            "damage": "80x",
+            "cost": "Fighting Fighting",
+            "effect": "Flip 2 coins. This attack does 80 damage for each heads."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp",
+    "versions": [
+        "A1/264"
+    ]
+}

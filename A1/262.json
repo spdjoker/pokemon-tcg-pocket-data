@@ -1,0 +1,35 @@
+{
+    "id": "A1/262",
+    "entry": 262,
+    "source": "Mewtwo Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Mewtwo ex",
+    "type": "Psychic",
+    "hp": 150,
+    "stage": "Basic",
+    "weakness": "Darkness",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Psychic Sphere",
+            "damage": "50",
+            "cost": "Psychic Colorless",
+            "effect": ""
+        },
+        {
+            "name": "Psydrive",
+            "damage": "150",
+            "cost": "Psychic Psychic Colorless Colorless",
+            "effect": "Discard 2 Psychic Energy from this Pokemon."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp",
+    "versions": [
+        "A1/129",
+        "A1/282",
+        "A1/286"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/201",
+    "entry": 201,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Lickitung",
+    "type": "Colorless",
+    "hp": 90,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Continuous Lick",
+            "damage": "60x",
+            "cost": "Colorless Colorless Colorless",
+            "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/2",
+    "entry": 2,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Ivysaur",
+    "type": "Grass",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Razor Leaf",
+            "damage": "60",
+            "cost": "Grass Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp",
+    "versions": []
+}

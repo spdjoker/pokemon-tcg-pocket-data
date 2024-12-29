@@ -1,0 +1,28 @@
+{
+    "id": "A1/265",
+    "entry": 265,
+    "source": "Pikachu Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Wigglytuff ex",
+    "type": "Colorless",
+    "hp": 140,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Sleepy Song",
+            "damage": "80",
+            "cost": "Colorless Colorless Colorless",
+            "effect": "Your opponent's Active Pokemon is now Asleep."
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp",
+    "versions": [
+        "A1/195",
+        "A1/279"
+    ]
+}

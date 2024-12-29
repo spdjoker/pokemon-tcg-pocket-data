@@ -1,0 +1,13 @@
+{
+    "id": "P-A/6",
+    "entry": 6,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Trainer",
+    "name": "Red Card",
+    "type": "Item",
+    "hp": 0,
+    "effect": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
+    "versions": []
+}

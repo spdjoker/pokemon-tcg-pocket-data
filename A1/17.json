@@ -1,0 +1,25 @@
+{
+    "id": "A1/17",
+    "entry": 17,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Venomoth",
+    "type": "Grass",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Poison Powder",
+            "damage": "30",
+            "cost": "Grass",
+            "effect": "Your opponent's Active Pokemon is now Poisoned."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp",
+    "versions": []
+}

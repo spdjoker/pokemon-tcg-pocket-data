@@ -1,0 +1,25 @@
+{
+    "id": "A1/83",
+    "entry": 83,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Articuno",
+    "type": "Water",
+    "hp": 100,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Ice Beam",
+            "damage": "60",
+            "cost": "Water Water Colorless",
+            "effect": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp",
+    "versions": []
+}

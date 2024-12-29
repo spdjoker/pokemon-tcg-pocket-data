@@ -1,0 +1,25 @@
+{
+    "id": "A1/75",
+    "entry": 75,
+    "source": "Charizard Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Starmie",
+    "type": "Water",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 0,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Wave Splash",
+            "damage": "40",
+            "cost": "Water",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp",
+    "versions": []
+}

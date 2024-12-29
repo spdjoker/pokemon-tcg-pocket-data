@@ -1,0 +1,25 @@
+{
+    "id": "A1/29",
+    "entry": 29,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Petilil",
+    "type": "Grass",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Blot",
+            "damage": "10",
+            "cost": "Grass",
+            "effect": "Heal 10 damage from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp",
+    "versions": []
+}

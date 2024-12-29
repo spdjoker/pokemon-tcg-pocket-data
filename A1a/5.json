@@ -1,0 +1,25 @@
+{
+    "id": "A1a/5",
+    "entry": 5,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Servine",
+    "type": "Grass",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Vine Whip",
+            "damage": "50",
+            "cost": "Grass Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
+    "versions": []
+}

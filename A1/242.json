@@ -1,0 +1,27 @@
+{
+    "id": "A1/242",
+    "entry": 242,
+    "source": "Mewtwo Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Golbat",
+    "type": "Darkness",
+    "hp": 70,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Wing Attack",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp",
+    "versions": [
+        "A1/173"
+    ]
+}

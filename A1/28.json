@@ -1,0 +1,25 @@
+{
+    "id": "A1/28",
+    "entry": 28,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Whimsicott",
+    "type": "Grass",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Rolling Tackle",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp",
+    "versions": []
+}

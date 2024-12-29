@@ -1,0 +1,27 @@
+{
+    "id": "A1/168",
+    "entry": 168,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Nidoqueen",
+    "type": "Darkness",
+    "hp": 140,
+    "stage": "Stage 2",
+    "weakness": "Fighting",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Lovestrike",
+            "damage": "80+",
+            "cost": "Darkness Darkness Colorless",
+            "effect": "This attack does 50 more damage for each of your Benched Nidoking."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp",
+    "versions": [
+        "A1/240"
+    ]
+}

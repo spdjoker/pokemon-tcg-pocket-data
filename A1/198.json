@@ -1,0 +1,25 @@
+{
+    "id": "A1/198",
+    "entry": 198,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Farfetch'd",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Leek Slap",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
+    "versions": []
+}

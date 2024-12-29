@@ -1,0 +1,15 @@
+{
+    "id": "A1/218",
+    "entry": 218,
+    "source": "Mewtwo Pack",
+    "rarity": 1,
+    "layout": "Trainer",
+    "name": "Old Amber",
+    "type": "Item",
+    "hp": 40,
+    "effect": "Play this card as if it were a 40-HP Basic Colorless Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp",
+    "versions": [
+        "A1a/63"
+    ]
+}

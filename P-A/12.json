@@ -1,0 +1,28 @@
+{
+    "id": "P-A/12",
+    "entry": 12,
+    "source": "Wonder Pick",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Meowth",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Pay Day",
+            "damage": "10",
+            "cost": "Colorless",
+            "effect": "Draw 1 card."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
+    "versions": [
+        "A1/196",
+        "A1/246"
+    ]
+}

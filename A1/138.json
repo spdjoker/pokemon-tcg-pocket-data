@@ -1,0 +1,25 @@
+{
+    "id": "A1/138",
+    "entry": 138,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Sandslash",
+    "type": "Fighting",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Slash",
+            "damage": "70",
+            "cost": "Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp",
+    "versions": []
+}

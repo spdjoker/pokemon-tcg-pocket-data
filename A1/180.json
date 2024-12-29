@@ -1,0 +1,25 @@
+{
+    "id": "A1/180",
+    "entry": 180,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Bisharp",
+    "type": "Metal",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Metal Claw",
+            "damage": "70",
+            "cost": "Metal Metal",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
+    "versions": []
+}

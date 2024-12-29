@@ -1,0 +1,29 @@
+{
+    "id": "A1/125",
+    "entry": 125,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Hypno",
+    "type": "Psychic",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Darkness",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Sleep Pendulum",
+        "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokemon is now Asleep."
+    },
+    "moves": [
+        {
+            "name": "Psypunch",
+            "damage": "50",
+            "cost": "Psychic Psychic Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
+    "versions": []
+}

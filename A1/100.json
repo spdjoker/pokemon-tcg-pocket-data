@@ -1,0 +1,27 @@
+{
+    "id": "A1/100",
+    "entry": 100,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Electrode",
+    "type": "Lightning",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 0,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Electro Ball",
+            "damage": "70",
+            "cost": "Lightning Lightning",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp",
+    "versions": [
+        "A1/235"
+    ]
+}

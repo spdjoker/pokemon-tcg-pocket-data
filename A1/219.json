@@ -1,0 +1,15 @@
+{
+    "id": "A1/219",
+    "entry": 219,
+    "source": "Charizard Pack",
+    "rarity": 2,
+    "layout": "Trainer",
+    "name": "Erika",
+    "type": "Supporter",
+    "hp": 0,
+    "effect": "Heal 50 damage from 1 of your Grass Pokemon.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp",
+    "versions": [
+        "A1/266"
+    ]
+}

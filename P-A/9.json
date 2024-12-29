@@ -1,0 +1,29 @@
+{
+    "id": "P-A/9",
+    "entry": 9,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Pikachu",
+    "type": "Lightning",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Gnaw",
+            "damage": "20",
+            "cost": "Lightning",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
+    "versions": [
+        "A1/94",
+        "P-A/15",
+        "P-A/26"
+    ]
+}

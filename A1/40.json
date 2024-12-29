@@ -1,0 +1,25 @@
+{
+    "id": "A1/40",
+    "entry": 40,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Arcanine",
+    "type": "Fire",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Heat Tackle",
+            "damage": "100",
+            "cost": "Fire Fire Colorless",
+            "effect": "This Pokemon also does 20 damage to itself."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
+    "versions": []
+}

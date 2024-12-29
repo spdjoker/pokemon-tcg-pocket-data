@@ -1,0 +1,25 @@
+{
+    "id": "A1a/53",
+    "entry": 53,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Venipede",
+    "type": "Darkness",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Ram",
+            "damage": "20",
+            "cost": "Darkness",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
+    "versions": []
+}

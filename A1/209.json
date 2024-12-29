@@ -1,0 +1,31 @@
+{
+    "id": "A1/209",
+    "entry": 209,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Porygon",
+    "type": "Colorless",
+    "hp": 50,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": true,
+    "ability": {
+        "name": "Data Scan",
+        "effect": "Once during your turn, you may look at the top card of your deck."
+    },
+    "moves": [
+        {
+            "name": "Sharpen",
+            "damage": "20",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp",
+    "versions": [
+        "A1/249"
+    ]
+}

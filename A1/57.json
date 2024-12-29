@@ -1,0 +1,25 @@
+{
+    "id": "A1/57",
+    "entry": 57,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Psyduck",
+    "type": "Water",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Headache",
+            "damage": "10",
+            "cost": "Colorless",
+            "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp",
+    "versions": []
+}

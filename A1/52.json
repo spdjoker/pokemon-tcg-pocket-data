@@ -1,0 +1,25 @@
+{
+    "id": "A1/52",
+    "entry": 52,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Centiskorch",
+    "type": "Fire",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Fire Blast",
+            "damage": "130",
+            "cost": "Fire Colorless Colorless Colorless",
+            "effect": "Discard a Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp",
+    "versions": []
+}

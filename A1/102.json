@@ -1,0 +1,25 @@
+{
+    "id": "A1/102",
+    "entry": 102,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Jolteon",
+    "type": "Lightning",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Pin Missile",
+            "damage": "40x",
+            "cost": "Lightning Colorless",
+            "effect": "Flip 4 coins. This attack does 40 damage for each heads."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp",
+    "versions": []
+}

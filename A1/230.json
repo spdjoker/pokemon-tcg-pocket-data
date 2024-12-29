@@ -1,0 +1,28 @@
+{
+    "id": "A1/230",
+    "entry": 230,
+    "source": "Charizard Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Charmander",
+    "type": "Fire",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Water",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Ember",
+            "damage": "30",
+            "cost": "Fire",
+            "effect": "Discard a Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
+    "versions": [
+        "A1/33",
+        "P-A/32"
+    ]
+}

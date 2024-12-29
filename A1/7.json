@@ -1,0 +1,31 @@
+{
+    "id": "A1/7",
+    "entry": 7,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Butterfree",
+    "type": "Grass",
+    "hp": 120,
+    "stage": "Stage 2",
+    "weakness": "Fire",
+    "retreat": 1,
+    "has_ability": true,
+    "ability": {
+        "name": "Powder Heal",
+        "effect": "Once during your turn, you may heal 20 damage from each of your Pokemon."
+    },
+    "moves": [
+        {
+            "name": "Gust",
+            "damage": "60",
+            "cost": "Grass Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp",
+    "versions": [
+        "P-A/13"
+    ]
+}

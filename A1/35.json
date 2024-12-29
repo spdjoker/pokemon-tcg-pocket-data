@@ -1,0 +1,25 @@
+{
+    "id": "A1/35",
+    "entry": 35,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Charizard",
+    "type": "Fire",
+    "hp": 150,
+    "stage": "Stage 2",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Fire Spin",
+            "damage": "150",
+            "cost": "Fire Fire Colorless Colorless",
+            "effect": "Discard 2 Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp",
+    "versions": []
+}

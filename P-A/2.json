@@ -1,0 +1,13 @@
+{
+    "id": "P-A/2",
+    "entry": 2,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Trainer",
+    "name": "X Speed",
+    "type": "Item",
+    "hp": 0,
+    "effect": "During this turn, the Retreat Cost of your Active Pokemon is 1 less.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
+    "versions": []
+}

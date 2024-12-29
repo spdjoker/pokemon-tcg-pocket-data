@@ -1,0 +1,25 @@
+{
+    "id": "A1a/44",
+    "entry": 44,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Graveler",
+    "type": "Fighting",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Lunge Out",
+            "damage": "40",
+            "cost": "Fighting Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
+    "versions": []
+}

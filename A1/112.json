@@ -1,0 +1,25 @@
+{
+    "id": "A1/112",
+    "entry": 112,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Pincurchin",
+    "type": "Lightning",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Thunder Shock",
+            "damage": "30",
+            "cost": "Lightning Lightning",
+            "effect": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp",
+    "versions": []
+}

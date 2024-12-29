@@ -1,0 +1,31 @@
+{
+    "id": "A1a/70",
+    "entry": 70,
+    "source": "Mew Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Serperior",
+    "type": "Grass",
+    "hp": 110,
+    "stage": "Stage 2",
+    "weakness": "Fire",
+    "retreat": 2,
+    "has_ability": true,
+    "ability": {
+        "name": "Jungle Totem",
+        "effect": "Each Grass Energy attached to your Grass Pokemon provides 2 Grass Energy. This effect doesn't stack."
+    },
+    "moves": [
+        {
+            "name": "Solar Beam",
+            "damage": "70",
+            "cost": "Grass Colorless Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
+    "versions": [
+        "A1a/6"
+    ]
+}

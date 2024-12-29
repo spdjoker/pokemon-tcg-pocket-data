@@ -1,0 +1,25 @@
+{
+    "id": "A1a/38",
+    "entry": 38,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Florges",
+    "type": "Psychic",
+    "hp": 120,
+    "stage": "Stage 2",
+    "weakness": "Metal",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bloomshine",
+            "damage": "80",
+            "cost": "Psychic Psychic",
+            "effect": "Heal 20 damage from each of your Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
+    "versions": []
+}

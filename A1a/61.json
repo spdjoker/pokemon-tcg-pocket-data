@@ -1,0 +1,25 @@
+{
+    "id": "A1a/61",
+    "entry": 61,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Eevee",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Continuous Steps",
+            "damage": "20x",
+            "cost": "Colorless",
+            "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
+    "versions": []
+}

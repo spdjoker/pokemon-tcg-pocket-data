@@ -1,0 +1,25 @@
+{
+    "id": "A1/51",
+    "entry": 51,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Sizzlipede",
+    "type": "Fire",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Water",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Gnaw",
+            "damage": "10",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp",
+    "versions": []
+}

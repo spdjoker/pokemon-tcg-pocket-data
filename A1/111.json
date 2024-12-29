@@ -1,0 +1,25 @@
+{
+    "id": "A1/111",
+    "entry": 111,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Heliolisk",
+    "type": "Lightning",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Quick Attack",
+            "damage": "40+",
+            "cost": "Colorless Colorless",
+            "effect": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp",
+    "versions": []
+}

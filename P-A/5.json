@@ -1,0 +1,13 @@
+{
+    "id": "P-A/5",
+    "entry": 5,
+    "source": "Shop",
+    "rarity": 0,
+    "layout": "Trainer",
+    "name": "Pok\u00e9 Ball",
+    "type": "Item",
+    "hp": 0,
+    "effect": "Put 1 random Basic Pokemon from your deck into your hand.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
+    "versions": []
+}

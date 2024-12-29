@@ -1,0 +1,25 @@
+{
+    "id": "A1/65",
+    "entry": 65,
+    "source": "Pikachu Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Dewgong",
+    "type": "Water",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Surf",
+            "damage": "90",
+            "cost": "Water Water Water",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
+    "versions": []
+}

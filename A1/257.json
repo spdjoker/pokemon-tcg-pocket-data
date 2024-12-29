@@ -1,0 +1,27 @@
+{
+    "id": "A1/257",
+    "entry": 257,
+    "source": "Charizard Pack",
+    "rarity": 6,
+    "layout": "Pokemon",
+    "name": "Starmie ex",
+    "type": "Water",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 0,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Hydro Splash",
+            "damage": "90",
+            "cost": "Water Water",
+            "effect": ""
+        }
+    ],
+    "is_ex": true,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp",
+    "versions": [
+        "A1/76"
+    ]
+}

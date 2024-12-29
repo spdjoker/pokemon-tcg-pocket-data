@@ -1,0 +1,25 @@
+{
+    "id": "A1/212",
+    "entry": 212,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Minccino",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "None",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tail Smack",
+            "damage": "20",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp",
+    "versions": []
+}

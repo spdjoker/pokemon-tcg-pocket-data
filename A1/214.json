@@ -1,0 +1,25 @@
+{
+    "id": "A1/214",
+    "entry": 214,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Wooloo",
+    "type": "Colorless",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tackle",
+            "damage": "30",
+            "cost": "Colorless Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp",
+    "versions": []
+}

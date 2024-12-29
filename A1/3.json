@@ -1,0 +1,27 @@
+{
+    "id": "A1/3",
+    "entry": 3,
+    "source": "Mewtwo Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Venusaur",
+    "type": "Grass",
+    "hp": 160,
+    "stage": "Stage 2",
+    "weakness": "Fire",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Mega Drain",
+            "damage": "80",
+            "cost": "Grass Grass Colorless Colorless",
+            "effect": "Heal 30 damage from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp",
+    "versions": [
+        "P-A/18"
+    ]
+}

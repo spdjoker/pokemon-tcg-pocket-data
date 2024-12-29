@@ -1,0 +1,25 @@
+{
+    "id": "A1/200",
+    "entry": 200,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Dodrio",
+    "type": "Colorless",
+    "hp": 80,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 0,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Drill Peck",
+            "damage": "40",
+            "cost": "Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp",
+    "versions": []
+}

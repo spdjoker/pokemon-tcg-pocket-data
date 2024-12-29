@@ -1,0 +1,25 @@
+{
+    "id": "A1/197",
+    "entry": 197,
+    "source": "Charizard Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Persian",
+    "type": "Colorless",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Shadow Claw",
+            "damage": "40",
+            "cost": "Colorless Colorless",
+            "effect": "Flip a coin. If heads, discard a random card from your opponent's hand."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp",
+    "versions": []
+}

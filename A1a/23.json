@@ -1,0 +1,25 @@
+{
+    "id": "A1a/23",
+    "entry": 23,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Drednaw",
+    "type": "Water",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Crunch",
+            "damage": "70",
+            "cost": "Water Water Water",
+            "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
+    "versions": []
+}

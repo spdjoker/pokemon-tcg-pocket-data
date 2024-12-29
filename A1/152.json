@@ -1,0 +1,25 @@
+{
+    "id": "A1/152",
+    "entry": 152,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Marowak",
+    "type": "Fighting",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Grass",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Bone Beatdown",
+            "damage": "40",
+            "cost": "Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp",
+    "versions": []
+}

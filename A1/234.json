@@ -1,0 +1,27 @@
+{
+    "id": "A1/234",
+    "entry": 234,
+    "source": "Charizard Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Lapras",
+    "type": "Water",
+    "hp": 100,
+    "stage": "Basic",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Hydro Pump",
+            "damage": "20+",
+            "cost": "Water",
+            "effect": "If this Pokemon has at least 3 extra Water Energy attached, this attack does 70 more damage."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
+    "versions": [
+        "A1/79"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1/171",
+    "entry": 171,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Nidoking",
+    "type": "Darkness",
+    "hp": 150,
+    "stage": "Stage 2",
+    "weakness": "Fighting",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Poison Horn",
+            "damage": "90",
+            "cost": "Darkness Darkness Colorless",
+            "effect": "Your opponent's Active Pokemon is now Poisoned."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp",
+    "versions": [
+        "A1/241"
+    ]
+}

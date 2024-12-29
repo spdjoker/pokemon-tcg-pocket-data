@@ -1,0 +1,25 @@
+{
+    "id": "A1/82",
+    "entry": 82,
+    "source": "Pikachu Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Omastar",
+    "type": "Water",
+    "hp": 140,
+    "stage": "Stage 2",
+    "weakness": "Lightning",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Ancient Whirlpool",
+            "damage": "70",
+            "cost": "Water Colorless Colorless",
+            "effect": "During your opponent's next turn, the Defending Pokemon can't attack."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,25 @@
+{
+    "id": "A1/45",
+    "entry": 45,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Flareon",
+    "type": "Fire",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Flamethrower",
+            "damage": "110",
+            "cost": "Fire Colorless Colorless",
+            "effect": "Discard 1 Fire Energy from this Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp",
+    "versions": []
+}

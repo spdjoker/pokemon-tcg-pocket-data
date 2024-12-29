@@ -1,0 +1,28 @@
+{
+    "id": "A1/196",
+    "entry": 196,
+    "source": "Charizard Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Meowth",
+    "type": "Colorless",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Pay Day",
+            "damage": "10",
+            "cost": "Colorless",
+            "effect": "Draw 1 card."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp",
+    "versions": [
+        "A1/246",
+        "P-A/12"
+    ]
+}

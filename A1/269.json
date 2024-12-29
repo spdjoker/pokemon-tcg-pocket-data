@@ -1,0 +1,15 @@
+{
+    "id": "A1/269",
+    "entry": 269,
+    "source": "Mewtwo Pack",
+    "rarity": 6,
+    "layout": "Trainer",
+    "name": "Koga",
+    "type": "Supporter",
+    "hp": 0,
+    "effect": "Put your Muk or Weezing in the Active Spot into your hand.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp",
+    "versions": [
+        "A1/222"
+    ]
+}

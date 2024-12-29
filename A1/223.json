@@ -1,0 +1,15 @@
+{
+    "id": "A1/223",
+    "entry": 223,
+    "source": "Mewtwo Pack",
+    "rarity": 2,
+    "layout": "Trainer",
+    "name": "Giovanni",
+    "type": "Supporter",
+    "hp": 0,
+    "effect": "During this turn, attacks used by your Pokemon do +10 damage to your opponent's Active Pokemon.",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp",
+    "versions": [
+        "A1/270"
+    ]
+}

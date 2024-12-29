@@ -1,0 +1,25 @@
+{
+    "id": "A1/58",
+    "entry": 58,
+    "source": "All Packs",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Golduck",
+    "type": "Water",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Lightning",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Aqua Edge",
+            "damage": "70",
+            "cost": "Water Water",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp",
+    "versions": []
+}

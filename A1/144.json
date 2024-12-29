@@ -1,0 +1,25 @@
+{
+    "id": "A1/144",
+    "entry": 144,
+    "source": "Charizard Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Machoke",
+    "type": "Fighting",
+    "hp": 100,
+    "stage": "Stage 1",
+    "weakness": "Psychic",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Strength",
+            "damage": "50",
+            "cost": "Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp",
+    "versions": []
+}

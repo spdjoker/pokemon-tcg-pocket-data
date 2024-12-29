@@ -1,0 +1,25 @@
+{
+    "id": "A1/145",
+    "entry": 145,
+    "source": "Charizard Pack",
+    "rarity": 3,
+    "layout": "Pokemon",
+    "name": "Machamp",
+    "type": "Fighting",
+    "hp": 150,
+    "stage": "Stage 2",
+    "weakness": "Psychic",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Seismic Toss",
+            "damage": "100",
+            "cost": "Fighting Fighting Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
+    "versions": []
+}

@@ -1,0 +1,27 @@
+{
+    "id": "A1a/69",
+    "entry": 69,
+    "source": "Mew Pack",
+    "rarity": 5,
+    "layout": "Pokemon",
+    "name": "Exeggutor",
+    "type": "Grass",
+    "hp": 130,
+    "stage": "Stage 1",
+    "weakness": "Fire",
+    "retreat": 3,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Psychic",
+            "damage": "80+",
+            "cost": "Grass Colorless Colorless Colorless",
+            "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
+    "versions": [
+        "A1a/2"
+    ]
+}

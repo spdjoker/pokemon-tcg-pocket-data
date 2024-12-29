@@ -1,0 +1,25 @@
+{
+    "id": "A1/134",
+    "entry": 134,
+    "source": "All Packs",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Swoobat",
+    "type": "Psychic",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Heart Stamp",
+            "damage": "60",
+            "cost": "Psychic Colorless",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
+    "versions": []
+}

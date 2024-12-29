@@ -1,0 +1,25 @@
+{
+    "id": "A1/147",
+    "entry": 147,
+    "source": "Pikachu Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Geodude",
+    "type": "Fighting",
+    "hp": 70,
+    "stage": "Basic",
+    "weakness": "Grass",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Tackle",
+            "damage": "20",
+            "cost": "Fighting",
+            "effect": ""
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp",
+    "versions": []
+}

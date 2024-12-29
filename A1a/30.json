@@ -1,0 +1,27 @@
+{
+    "id": "A1a/30",
+    "entry": 30,
+    "source": "Mew Pack",
+    "rarity": 1,
+    "layout": "Pokemon",
+    "name": "Dedenne",
+    "type": "Lightning",
+    "hp": 60,
+    "stage": "Basic",
+    "weakness": "Fighting",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Thunder Shock",
+            "damage": "10",
+            "cost": "Lightning",
+            "effect": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
+    "versions": [
+        "A1a/73"
+    ]
+}

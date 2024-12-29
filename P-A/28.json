@@ -1,0 +1,27 @@
+{
+    "id": "P-A/28",
+    "entry": 28,
+    "source": "Promo Pack",
+    "rarity": 0,
+    "layout": "Pokemon",
+    "name": "Volcarona",
+    "type": "Fire",
+    "hp": 120,
+    "stage": "Stage 1",
+    "weakness": "Water",
+    "retreat": 2,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Volcanic Ash",
+            "damage": "",
+            "cost": "Fire Fire Colorless",
+            "effect": "Discard 2 Fire Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
+    "versions": [
+        "A1a/14"
+    ]
+}

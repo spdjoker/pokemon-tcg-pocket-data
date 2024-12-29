@@ -1,0 +1,25 @@
+{
+    "id": "A1a/35",
+    "entry": 35,
+    "source": "Mew Pack",
+    "rarity": 2,
+    "layout": "Pokemon",
+    "name": "Beheeyem",
+    "type": "Psychic",
+    "hp": 90,
+    "stage": "Stage 1",
+    "weakness": "Darkness",
+    "retreat": 1,
+    "has_ability": false,
+    "moves": [
+        {
+            "name": "Mind Jack",
+            "damage": "10+",
+            "cost": "Psychic",
+            "effect": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+        }
+    ],
+    "is_ex": false,
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
+    "versions": []
+}
