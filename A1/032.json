@@ -1,10 +1,11 @@
 {
     "id": "A1/32",
-    "entry": 32,
-    "source": "Charizard Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Gogoat",
+    "entry": 32,
+    "rarity": 1,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 120,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp",
     "versions": []
 }

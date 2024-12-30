@@ -1,14 +1,14 @@
 {
     "id": "A1/226",
-    "entry": 226,
-    "source": "Pikachu Pack",
-    "rarity": 2,
-    "layout": "Trainer",
     "name": "Lt. Surge",
+    "entry": 226,
+    "rarity": 2,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp",
+    "layout": "Trainer",
     "type": "Supporter",
     "hp": 0,
     "effect": "Move all Lightning Energy from your Benched Pokemon to your Raichu, Electrode, or Electabuzz in the Active Spot.",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp",
     "versions": [
         "A1/273"
     ]

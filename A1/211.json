@@ -1,10 +1,11 @@
 {
     "id": "A1/211",
-    "entry": 211,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Snorlax",
+    "entry": 211,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 150,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp",
     "versions": [
         "A1/250"
     ]

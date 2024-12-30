@@ -1,10 +1,11 @@
 {
     "id": "A1/134",
-    "entry": 134,
-    "source": "All Packs",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Swoobat",
+    "entry": 134,
+    "rarity": 1,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 90,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp",
     "versions": []
 }

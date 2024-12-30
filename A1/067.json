@@ -1,10 +1,11 @@
 {
     "id": "A1/67",
-    "entry": 67,
-    "source": "Mewtwo Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Cloyster",
+    "entry": 67,
+    "rarity": 2,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 120,
     "stage": "Stage 1",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp",
     "versions": []
 }

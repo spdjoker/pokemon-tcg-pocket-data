@@ -1,10 +1,11 @@
 {
     "id": "A1/172",
-    "entry": 172,
-    "source": "Mewtwo Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Zubat",
+    "entry": 172,
+    "rarity": 1,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 50,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp",
     "versions": []
 }

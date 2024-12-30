@@ -1,10 +1,11 @@
 {
     "id": "A1a/62",
-    "entry": 62,
-    "source": "Mew Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Chatot",
+    "entry": 62,
+    "rarity": 1,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 60,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
     "versions": []
 }

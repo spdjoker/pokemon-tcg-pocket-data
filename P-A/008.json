@@ -1,14 +1,14 @@
 {
     "id": "P-A/8",
-    "entry": 8,
-    "source": "Campaign",
-    "rarity": 0,
-    "layout": "Trainer",
     "name": "Pok\u00e9dex",
+    "entry": 8,
+    "rarity": 0,
+    "source": "Campaign",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
+    "layout": "Trainer",
     "type": "Item",
     "hp": 0,
     "effect": "Look at the top 3 cards of your deck.",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
     "versions": [
         "P-A/4"
     ]

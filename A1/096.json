@@ -1,10 +1,11 @@
 {
     "id": "A1/96",
-    "entry": 96,
-    "source": "Pikachu Pack",
-    "rarity": 4,
-    "layout": "Pokemon",
     "name": "Pikachu ex",
+    "entry": 96,
+    "rarity": 4,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 120,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp",
     "versions": [
         "A1/259",
         "A1/281",

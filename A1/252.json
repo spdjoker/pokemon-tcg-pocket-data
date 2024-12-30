@@ -1,10 +1,11 @@
 {
     "id": "A1/252",
-    "entry": 252,
-    "source": "Charizard Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Exeggutor ex",
+    "entry": 252,
+    "rarity": 6,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 160,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp",
     "versions": [
         "A1/23"
     ]

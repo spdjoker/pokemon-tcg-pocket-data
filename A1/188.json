@@ -1,10 +1,11 @@
 {
     "id": "A1/188",
-    "entry": 188,
-    "source": "Mewtwo Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Pidgeot",
+    "entry": 188,
+    "rarity": 3,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 130,
     "stage": "Stage 2",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp",
     "versions": [
         "A1/245"
     ]

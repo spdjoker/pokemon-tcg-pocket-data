@@ -1,14 +1,14 @@
 {
     "id": "A1a/67",
-    "entry": 67,
-    "source": "Mew Pack",
-    "rarity": 2,
-    "layout": "Trainer",
     "name": "Blue",
+    "entry": 67,
+    "rarity": 2,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
+    "layout": "Trainer",
     "type": "Supporter",
     "hp": 0,
     "effect": "During your opponent's next turn, all of your Pokemon take \u221210 damage from attacks from your opponent's Pokemon.",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
     "versions": [
         "A1a/81"
     ]

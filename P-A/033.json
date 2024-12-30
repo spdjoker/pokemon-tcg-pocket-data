@@ -1,10 +1,11 @@
 {
     "id": "P-A/33",
-    "entry": 33,
-    "source": "Wonder Pick",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Squirtle",
+    "entry": 33,
+    "rarity": 0,
+    "source": "Wonder Pick",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
     "versions": [
         "A1/53",
         "A1/232"

@@ -1,10 +1,11 @@
 {
     "id": "A1/234",
-    "entry": 234,
-    "source": "Charizard Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Lapras",
+    "entry": 234,
+    "rarity": 5,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 100,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp",
     "versions": [
         "A1/79"
     ]

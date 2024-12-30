@@ -1,10 +1,11 @@
 {
     "id": "P-A/20",
-    "entry": 20,
-    "source": "Promo Pack",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Haunter",
+    "entry": 20,
+    "rarity": 0,
+    "source": "Promo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 70,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
     "versions": []
 }

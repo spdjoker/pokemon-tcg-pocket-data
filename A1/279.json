@@ -1,10 +1,11 @@
 {
     "id": "A1/279",
-    "entry": 279,
-    "source": "Pikachu Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Wigglytuff ex",
+    "entry": 279,
+    "rarity": 6,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 140,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp",
     "versions": [
         "A1/195",
         "A1/265"

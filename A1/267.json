@@ -1,14 +1,14 @@
 {
     "id": "A1/267",
-    "entry": 267,
-    "source": "Pikachu Pack",
-    "rarity": 6,
-    "layout": "Trainer",
     "name": "Misty",
+    "entry": 267,
+    "rarity": 6,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp",
+    "layout": "Trainer",
     "type": "Supporter",
     "hp": 0,
     "effect": "Choose 1 of your\u00a0Water Pokemon, and flip a coin until you get tails. For each heads, take a\u00a0Water Energy from your Energy Zone and attach it to that Pokemon.",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp",
     "versions": [
         "A1/220"
     ]

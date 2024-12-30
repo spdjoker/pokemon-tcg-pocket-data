@@ -1,10 +1,11 @@
 {
     "id": "A1/116",
-    "entry": 116,
-    "source": "Charizard Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Kadabra",
+    "entry": 116,
+    "rarity": 2,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 80,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp",
     "versions": []
 }

@@ -1,10 +1,11 @@
 {
     "id": "A1/146",
-    "entry": 146,
-    "source": "Charizard Pack",
-    "rarity": 4,
-    "layout": "Pokemon",
     "name": "Machamp ex",
+    "entry": 146,
+    "rarity": 4,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 180,
     "stage": "Stage 2",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp",
     "versions": [
         "A1/263",
         "A1/278"

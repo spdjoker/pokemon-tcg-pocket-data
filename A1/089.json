@@ -1,10 +1,11 @@
 {
     "id": "A1/89",
-    "entry": 89,
-    "source": "Charizard Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Greninja",
+    "entry": 89,
+    "rarity": 3,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 120,
     "stage": "Stage 2",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp",
     "versions": [
         "P-A/19"
     ]

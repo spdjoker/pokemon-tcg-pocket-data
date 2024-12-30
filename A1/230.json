@@ -1,10 +1,11 @@
 {
     "id": "A1/230",
-    "entry": 230,
-    "source": "Charizard Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Charmander",
+    "entry": 230,
+    "rarity": 5,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp",
     "versions": [
         "A1/33",
         "P-A/32"

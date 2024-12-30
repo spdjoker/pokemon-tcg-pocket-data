@@ -1,10 +1,11 @@
 {
     "id": "A1/246",
-    "entry": 246,
-    "source": "Charizard Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Meowth",
+    "entry": 246,
+    "rarity": 5,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp",
     "versions": [
         "A1/196",
         "P-A/12"

@@ -1,13 +1,13 @@
 {
     "id": "P-A/7",
-    "entry": 7,
-    "source": "Shop",
-    "rarity": 0,
-    "layout": "Trainer",
     "name": "Professor's Research",
+    "entry": 7,
+    "rarity": 0,
+    "source": "Shop",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
+    "layout": "Trainer",
     "type": "Supporter",
     "hp": 0,
     "effect": "Draw 2 cards.",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
     "versions": []
 }

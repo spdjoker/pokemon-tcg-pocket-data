@@ -1,10 +1,11 @@
 {
     "id": "P-A/10",
-    "entry": 10,
-    "source": "Missions",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Mewtwo",
+    "entry": 10,
+    "rarity": 0,
+    "source": "Missions",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 120,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
     "versions": [
         "A1/128"
     ]

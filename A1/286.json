@@ -1,10 +1,11 @@
 {
     "id": "A1/286",
-    "entry": 286,
-    "source": "All Packs",
-    "rarity": 8,
-    "layout": "Pokemon",
     "name": "Mewtwo ex",
+    "entry": 286,
+    "rarity": 8,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 150,
     "stage": "Basic",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp",
     "versions": [
         "A1/129",
         "A1/262",

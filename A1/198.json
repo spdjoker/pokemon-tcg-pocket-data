@@ -1,10 +1,11 @@
 {
     "id": "A1/198",
-    "entry": 198,
-    "source": "All Packs",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Farfetch'd",
+    "entry": 198,
+    "rarity": 1,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 60,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp",
     "versions": []
 }

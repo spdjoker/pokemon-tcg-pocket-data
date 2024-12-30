@@ -1,10 +1,11 @@
 {
     "id": "A1/70",
-    "entry": 70,
-    "source": "Pikachu Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Horsea",
+    "entry": 70,
+    "rarity": 1,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 60,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp",
     "versions": []
 }

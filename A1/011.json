@@ -1,10 +1,11 @@
 {
     "id": "A1/11",
-    "entry": 11,
-    "source": "Charizard Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Oddish",
+    "entry": 11,
+    "rarity": 1,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 60,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp",
     "versions": []
 }

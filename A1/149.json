@@ -1,10 +1,11 @@
 {
     "id": "A1/149",
-    "entry": 149,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Golem",
+    "entry": 149,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 160,
     "stage": "Stage 2",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp",
     "versions": []
 }

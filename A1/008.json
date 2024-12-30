@@ -1,10 +1,11 @@
 {
     "id": "A1/8",
-    "entry": 8,
-    "source": "Mewtwo Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Weedle",
+    "entry": 8,
+    "rarity": 1,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 50,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp",
     "versions": []
 }

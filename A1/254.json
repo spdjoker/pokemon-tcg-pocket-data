@@ -1,10 +1,11 @@
 {
     "id": "A1/254",
-    "entry": 254,
-    "source": "Pikachu Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Arcanine ex",
+    "entry": 254,
+    "rarity": 6,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 150,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp",
     "versions": [
         "A1/41"
     ]

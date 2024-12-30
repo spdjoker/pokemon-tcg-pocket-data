@@ -1,10 +1,11 @@
 {
     "id": "A1/125",
-    "entry": 125,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Hypno",
+    "entry": 125,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 100,
     "stage": "Stage 1",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp",
     "versions": []
 }

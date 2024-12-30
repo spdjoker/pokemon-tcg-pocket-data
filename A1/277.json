@@ -1,10 +1,11 @@
 {
     "id": "A1/277",
-    "entry": 277,
-    "source": "Mewtwo Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Gengar ex",
+    "entry": 277,
+    "rarity": 6,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 170,
     "stage": "Stage 2",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp",
     "versions": [
         "A1/123",
         "A1/261"

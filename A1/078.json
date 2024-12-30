@@ -1,10 +1,11 @@
 {
     "id": "A1/78",
-    "entry": 78,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Gyarados",
+    "entry": 78,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 150,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp",
     "versions": [
         "A1/233"
     ]

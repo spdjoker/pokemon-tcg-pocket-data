@@ -1,10 +1,11 @@
 {
     "id": "A1a/46",
-    "entry": 46,
-    "source": "Mew Pack",
-    "rarity": 4,
-    "layout": "Pokemon",
     "name": "Aerodactyl ex",
+    "entry": 46,
+    "rarity": 4,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 140,
     "stage": "Stage 1",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
     "versions": [
         "A1a/78",
         "A1a/84"

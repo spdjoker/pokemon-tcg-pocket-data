@@ -1,10 +1,11 @@
 {
     "id": "A1/264",
-    "entry": 264,
-    "source": "Mewtwo Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Marowak ex",
+    "entry": 264,
+    "rarity": 6,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 140,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp",
     "versions": [
         "A1/153"
     ]

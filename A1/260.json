@@ -1,10 +1,11 @@
 {
     "id": "A1/260",
-    "entry": 260,
-    "source": "Pikachu Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Zapdos ex",
+    "entry": 260,
+    "rarity": 6,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 130,
     "stage": "Basic",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp",
     "versions": [
         "A1/104",
         "A1/276"

@@ -1,10 +1,11 @@
 {
     "id": "A1/243",
-    "entry": 243,
-    "source": "Mewtwo Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Weezing",
+    "entry": 243,
+    "rarity": 5,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 110,
     "stage": "Stage 1",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp",
     "versions": [
         "A1/177"
     ]

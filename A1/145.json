@@ -1,10 +1,11 @@
 {
     "id": "A1/145",
-    "entry": 145,
-    "source": "Charizard Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Machamp",
+    "entry": 145,
+    "rarity": 3,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 150,
     "stage": "Stage 2",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp",
     "versions": []
 }

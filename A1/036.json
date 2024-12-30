@@ -1,10 +1,11 @@
 {
     "id": "A1/36",
-    "entry": 36,
-    "source": "Charizard Pack",
-    "rarity": 4,
-    "layout": "Pokemon",
     "name": "Charizard ex",
+    "entry": 36,
+    "rarity": 4,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 180,
     "stage": "Stage 2",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp",
     "versions": [
         "A1/253",
         "A1/280",

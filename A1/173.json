@@ -1,10 +1,11 @@
 {
     "id": "A1/173",
-    "entry": 173,
-    "source": "Mewtwo Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Golbat",
+    "entry": 173,
+    "rarity": 2,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 70,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp",
     "versions": [
         "A1/242"
     ]

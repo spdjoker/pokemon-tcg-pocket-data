@@ -1,10 +1,11 @@
 {
     "id": "A1/258",
-    "entry": 258,
-    "source": "Mewtwo Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Articuno ex",
+    "entry": 258,
+    "rarity": 6,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 140,
     "stage": "Basic",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp",
     "versions": [
         "A1/84",
         "A1/275"

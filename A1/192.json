@@ -1,10 +1,11 @@
 {
     "id": "A1/192",
-    "entry": 192,
-    "source": "Charizard Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Fearow",
+    "entry": 192,
+    "rarity": 1,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 100,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp",
     "versions": []
 }

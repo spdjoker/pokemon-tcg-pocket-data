@@ -1,10 +1,11 @@
 {
     "id": "A1a/70",
-    "entry": 70,
-    "source": "Mew Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Serperior",
+    "entry": 70,
+    "rarity": 5,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 110,
     "stage": "Stage 2",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
     "versions": [
         "A1a/6"
     ]

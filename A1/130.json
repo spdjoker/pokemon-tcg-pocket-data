@@ -1,10 +1,11 @@
 {
     "id": "A1/130",
-    "entry": 130,
-    "source": "Mewtwo Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Ralts",
+    "entry": 130,
+    "rarity": 1,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 60,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp",
     "versions": []
 }

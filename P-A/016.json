@@ -1,10 +1,11 @@
 {
     "id": "P-A/16",
-    "entry": 16,
-    "source": "Promo Pack",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Clefairy",
+    "entry": 16,
+    "rarity": 0,
+    "source": "Promo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
     "versions": [
         "A1/113"
     ]

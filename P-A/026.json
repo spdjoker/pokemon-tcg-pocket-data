@@ -1,10 +1,11 @@
 {
     "id": "P-A/26",
-    "entry": 26,
-    "source": "Campaign",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Pikachu",
+    "entry": 26,
+    "rarity": 0,
+    "source": "Campaign",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
     "versions": [
         "A1/94",
         "P-A/9",

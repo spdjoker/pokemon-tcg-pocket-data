@@ -1,10 +1,11 @@
 {
     "id": "A1/240",
-    "entry": 240,
-    "source": "Pikachu Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Nidoqueen",
+    "entry": 240,
+    "rarity": 5,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 140,
     "stage": "Stage 2",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp",
     "versions": [
         "A1/168"
     ]

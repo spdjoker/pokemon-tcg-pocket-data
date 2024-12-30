@@ -1,10 +1,11 @@
 {
     "id": "A1/40",
-    "entry": 40,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Arcanine",
+    "entry": 40,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 130,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp",
     "versions": []
 }

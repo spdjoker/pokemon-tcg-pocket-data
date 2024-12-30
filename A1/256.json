@@ -1,10 +1,11 @@
 {
     "id": "A1/256",
-    "entry": 256,
-    "source": "Pikachu Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Blastoise ex",
+    "entry": 256,
+    "rarity": 6,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 180,
     "stage": "Stage 2",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp",
     "versions": [
         "A1/56"
     ]

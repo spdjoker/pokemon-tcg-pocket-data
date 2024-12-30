@@ -1,10 +1,11 @@
 {
     "id": "A1/175",
-    "entry": 175,
-    "source": "Mewtwo Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Muk",
+    "entry": 175,
+    "rarity": 3,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 130,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp",
     "versions": []
 }

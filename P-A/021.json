@@ -1,10 +1,11 @@
 {
     "id": "P-A/21",
-    "entry": 21,
-    "source": "Promo Pack",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Onix",
+    "entry": 21,
+    "rarity": 0,
+    "source": "Promo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 110,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
     "versions": [
         "A1/150"
     ]

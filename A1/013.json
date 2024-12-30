@@ -1,10 +1,11 @@
 {
     "id": "A1/13",
-    "entry": 13,
-    "source": "Charizard Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Vileplume",
+    "entry": 13,
+    "rarity": 3,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 140,
     "stage": "Stage 2",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp",
     "versions": []
 }

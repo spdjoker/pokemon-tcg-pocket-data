@@ -1,10 +1,11 @@
 {
     "id": "A1a/36",
-    "entry": 36,
-    "source": "Mew Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Flab\u00e9b\u00e9",
+    "entry": 36,
+    "rarity": 1,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 40,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
     "versions": []
 }

@@ -1,10 +1,11 @@
 {
     "id": "P-A/13",
-    "entry": 13,
-    "source": "Promo Pack",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Butterfree",
+    "entry": 13,
+    "rarity": 0,
+    "source": "Promo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 120,
     "stage": "Stage 2",
@@ -24,7 +25,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
     "versions": [
         "A1/7"
     ]

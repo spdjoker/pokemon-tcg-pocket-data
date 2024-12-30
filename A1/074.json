@@ -1,10 +1,11 @@
 {
     "id": "A1/74",
-    "entry": 74,
-    "source": "Charizard Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Staryu",
+    "entry": 74,
+    "rarity": 1,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 50,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp",
     "versions": []
 }

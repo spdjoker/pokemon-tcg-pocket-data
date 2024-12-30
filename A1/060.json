@@ -1,10 +1,11 @@
 {
     "id": "A1/60",
-    "entry": 60,
-    "source": "Charizard Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Poliwhirl",
+    "entry": 60,
+    "rarity": 2,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 90,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp",
     "versions": []
 }

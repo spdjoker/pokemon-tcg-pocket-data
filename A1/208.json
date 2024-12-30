@@ -1,10 +1,11 @@
 {
     "id": "A1/208",
-    "entry": 208,
-    "source": "Pikachu Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Eevee",
+    "entry": 208,
+    "rarity": 1,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp",
     "versions": [
         "A1/206",
         "A1/207",

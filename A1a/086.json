@@ -1,10 +1,11 @@
 {
     "id": "A1a/86",
-    "entry": 86,
-    "source": "Mew Pack",
-    "rarity": 8,
-    "layout": "Pokemon",
     "name": "Mew ex",
+    "entry": 86,
+    "rarity": 8,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 130,
     "stage": "Basic",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
     "versions": [
         "A1a/32",
         "A1a/77",

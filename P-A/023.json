@@ -1,10 +1,11 @@
 {
     "id": "P-A/23",
-    "entry": 23,
-    "source": "Wonder Pick",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Bulbasaur",
+    "entry": 23,
+    "rarity": 0,
+    "source": "Wonder Pick",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 70,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
     "versions": [
         "A1/1",
         "A1/227"

@@ -1,10 +1,11 @@
 {
     "id": "A1/162",
-    "entry": 162,
-    "source": "All Packs",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Clobbopus",
+    "entry": 162,
+    "rarity": 1,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 80,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp",
     "versions": []
 }

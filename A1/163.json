@@ -1,10 +1,11 @@
 {
     "id": "A1/163",
-    "entry": 163,
-    "source": "All Packs",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Grapploct",
+    "entry": 163,
+    "rarity": 2,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 130,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp",
     "versions": []
 }

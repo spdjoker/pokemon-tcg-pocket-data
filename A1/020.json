@@ -1,10 +1,11 @@
 {
     "id": "A1/20",
-    "entry": 20,
-    "source": "Charizard Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Victreebel",
+    "entry": 20,
+    "rarity": 3,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 140,
     "stage": "Stage 2",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp",
     "versions": []
 }

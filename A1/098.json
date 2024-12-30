@@ -1,10 +1,11 @@
 {
     "id": "A1/98",
-    "entry": 98,
-    "source": "Pikachu Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Magneton",
+    "entry": 98,
+    "rarity": 3,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 80,
     "stage": "Stage 1",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp",
     "versions": []
 }

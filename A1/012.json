@@ -1,10 +1,11 @@
 {
     "id": "A1/12",
-    "entry": 12,
-    "source": "Charizard Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Gloom",
+    "entry": 12,
+    "rarity": 2,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 80,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp",
     "versions": [
         "A1/228"
     ]

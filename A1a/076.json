@@ -1,10 +1,11 @@
 {
     "id": "A1a/76",
-    "entry": 76,
-    "source": "Mew Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Gyarados ex",
+    "entry": 76,
+    "rarity": 6,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 180,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp",
     "versions": [
         "A1a/18"
     ]

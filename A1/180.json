@@ -1,10 +1,11 @@
 {
     "id": "A1/180",
-    "entry": 180,
-    "source": "All Packs",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Bisharp",
+    "entry": 180,
+    "rarity": 2,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
+    "layout": "Pokemon",
     "type": "Metal",
     "hp": 90,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp",
     "versions": []
 }

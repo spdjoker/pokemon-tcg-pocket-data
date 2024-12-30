@@ -1,10 +1,11 @@
 {
     "id": "A1/50",
-    "entry": 50,
-    "source": "Mewtwo Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Salazzle",
+    "entry": 50,
+    "rarity": 1,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 90,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp",
     "versions": []
 }

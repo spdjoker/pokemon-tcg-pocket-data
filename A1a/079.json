@@ -1,10 +1,11 @@
 {
     "id": "A1a/79",
-    "entry": 79,
-    "source": "Mew Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Pidgeot ex",
+    "entry": 79,
+    "rarity": 6,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 170,
     "stage": "Stage 2",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
     "versions": [
         "A1a/59"
     ]

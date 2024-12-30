@@ -1,10 +1,11 @@
 {
     "id": "A1a/30",
-    "entry": 30,
-    "source": "Mew Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Dedenne",
+    "entry": 30,
+    "rarity": 1,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
     "versions": [
         "A1a/73"
     ]

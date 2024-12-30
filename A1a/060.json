@@ -1,10 +1,11 @@
 {
     "id": "A1a/60",
-    "entry": 60,
-    "source": "Mew Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Tauros",
+    "entry": 60,
+    "rarity": 3,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
+    "layout": "Pokemon",
     "type": "Colorless",
     "hp": 100,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
     "versions": []
 }

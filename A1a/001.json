@@ -1,10 +1,11 @@
 {
     "id": "A1a/1",
-    "entry": 1,
-    "source": "Mew Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Exeggcute",
+    "entry": 1,
+    "rarity": 1,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 50,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
     "versions": []
 }

@@ -1,10 +1,11 @@
 {
     "id": "A1/274",
-    "entry": 274,
-    "source": "Charizard Pack",
-    "rarity": 6,
-    "layout": "Pokemon",
     "name": "Moltres ex",
+    "entry": 274,
+    "rarity": 6,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp",
+    "layout": "Pokemon",
     "type": "Fire",
     "hp": 140,
     "stage": "Basic",
@@ -26,7 +27,6 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp",
     "versions": [
         "A1/47",
         "A1/255",

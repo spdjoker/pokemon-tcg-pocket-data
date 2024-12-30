@@ -1,10 +1,11 @@
 {
     "id": "A1a/27",
-    "entry": 27,
-    "source": "Mew Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Electabuzz",
+    "entry": 27,
+    "rarity": 2,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
+    "layout": "Pokemon",
     "type": "Lightning",
     "hp": 70,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
     "versions": []
 }

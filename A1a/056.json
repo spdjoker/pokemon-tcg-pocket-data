@@ -1,10 +1,11 @@
 {
     "id": "A1a/56",
-    "entry": 56,
-    "source": "Mew Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Druddigon",
+    "entry": 56,
+    "rarity": 2,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+    "layout": "Pokemon",
     "type": "Dragon",
     "hp": 100,
     "stage": "Basic",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
     "versions": []
 }

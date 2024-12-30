@@ -1,10 +1,11 @@
 {
     "id": "P-A/14",
-    "entry": 14,
-    "source": "Promo Pack",
-    "rarity": 0,
-    "layout": "Pokemon",
     "name": "Lapras ex",
+    "entry": 14,
+    "rarity": 0,
+    "source": "Promo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 140,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": true,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
     "versions": []
 }

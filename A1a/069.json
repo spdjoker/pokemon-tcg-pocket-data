@@ -1,10 +1,11 @@
 {
     "id": "A1a/69",
-    "entry": 69,
-    "source": "Mew Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Exeggutor",
+    "entry": 69,
+    "rarity": 5,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 130,
     "stage": "Stage 1",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
     "versions": [
         "A1a/2"
     ]

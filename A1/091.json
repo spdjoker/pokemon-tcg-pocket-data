@@ -1,10 +1,11 @@
 {
     "id": "A1/91",
-    "entry": 91,
-    "source": "All Packs",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Bruxish",
+    "entry": 91,
+    "rarity": 2,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 90,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp",
     "versions": []
 }

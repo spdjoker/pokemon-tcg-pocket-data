@@ -1,10 +1,11 @@
 {
     "id": "A1/236",
-    "entry": 236,
-    "source": "Charizard Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Alakazam",
+    "entry": 236,
+    "rarity": 5,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp",
+    "layout": "Pokemon",
     "type": "Psychic",
     "hp": 130,
     "stage": "Stage 2",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp",
     "versions": [
         "A1/117"
     ]

@@ -1,10 +1,11 @@
 {
     "id": "A1/157",
-    "entry": 157,
-    "source": "Mewtwo Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Rhydon",
+    "entry": 157,
+    "rarity": 2,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 120,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp",
     "versions": []
 }

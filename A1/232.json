@@ -1,10 +1,11 @@
 {
     "id": "A1/232",
-    "entry": 232,
-    "source": "Pikachu Pack",
-    "rarity": 5,
-    "layout": "Pokemon",
     "name": "Squirtle",
+    "entry": 232,
+    "rarity": 5,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 60,
     "stage": "Basic",
@@ -20,7 +21,6 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp",
     "versions": [
         "A1/53",
         "P-A/33"

@@ -1,10 +1,11 @@
 {
     "id": "A1/148",
-    "entry": 148,
-    "source": "Pikachu Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Graveler",
+    "entry": 148,
+    "rarity": 2,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
+    "layout": "Pokemon",
     "type": "Fighting",
     "hp": 100,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp",
     "versions": []
 }

@@ -1,10 +1,11 @@
 {
     "id": "A1/54",
-    "entry": 54,
-    "source": "Pikachu Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Wartortle",
+    "entry": 54,
+    "rarity": 2,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 80,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp",
     "versions": []
 }

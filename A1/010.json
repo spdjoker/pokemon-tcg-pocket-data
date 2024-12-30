@@ -1,10 +1,11 @@
 {
     "id": "A1/10",
-    "entry": 10,
-    "source": "Mewtwo Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Beedrill",
+    "entry": 10,
+    "rarity": 3,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
+    "layout": "Pokemon",
     "type": "Grass",
     "hp": 120,
     "stage": "Stage 2",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp",
     "versions": []
 }

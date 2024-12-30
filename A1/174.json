@@ -1,10 +1,11 @@
 {
     "id": "A1/174",
-    "entry": 174,
-    "source": "Mewtwo Pack",
-    "rarity": 1,
-    "layout": "Pokemon",
     "name": "Grimer",
+    "entry": 174,
+    "rarity": 1,
+    "source": "Mewtwo Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 70,
     "stage": "Basic",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp",
     "versions": []
 }

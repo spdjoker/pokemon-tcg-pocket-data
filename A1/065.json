@@ -1,10 +1,11 @@
 {
     "id": "A1/65",
-    "entry": 65,
-    "source": "Pikachu Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Dewgong",
+    "entry": 65,
+    "rarity": 2,
+    "source": "Pikachu Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
+    "layout": "Pokemon",
     "type": "Water",
     "hp": 120,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp",
     "versions": []
 }

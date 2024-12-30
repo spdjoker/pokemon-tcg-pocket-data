@@ -1,10 +1,11 @@
 {
     "id": "A1/165",
-    "entry": 165,
-    "source": "All Packs",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Arbok",
+    "entry": 165,
+    "rarity": 2,
+    "source": "All Packs",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 100,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp",
     "versions": []
 }

@@ -1,10 +1,11 @@
 {
     "id": "A1/182",
-    "entry": 182,
-    "source": "Charizard Pack",
-    "rarity": 3,
-    "layout": "Pokemon",
     "name": "Melmetal",
+    "entry": 182,
+    "rarity": 3,
+    "source": "Charizard Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
+    "layout": "Pokemon",
     "type": "Metal",
     "hp": 130,
     "stage": "Stage 1",
@@ -24,6 +25,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp",
     "versions": []
 }

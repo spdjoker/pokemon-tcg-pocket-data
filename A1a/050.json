@@ -1,10 +1,11 @@
 {
     "id": "A1a/50",
-    "entry": 50,
-    "source": "Mew Pack",
-    "rarity": 2,
-    "layout": "Pokemon",
     "name": "Weezing",
+    "entry": 50,
+    "rarity": 2,
+    "source": "Mew Pack",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
+    "layout": "Pokemon",
     "type": "Darkness",
     "hp": 110,
     "stage": "Stage 1",
@@ -20,6 +21,5 @@
         }
     ],
     "is_ex": false,
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
     "versions": []
 }
