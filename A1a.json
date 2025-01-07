@@ -1,0 +1,2184 @@
+[
+    {
+        "id": "A1a/1",
+        "name": "Exeggcute",
+        "entry": 1,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 50,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Growth Spurt",
+                "damage": "",
+                "cost": "Colorless",
+                "effect": "Take a Grass Energy from your Energy Zone and attach it to this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/2",
+        "name": "Exeggutor",
+        "entry": 2,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_002_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 130,
+        "stage": "Stage 1",
+        "weakness": "Fire",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psychic",
+                "damage": "80+",
+                "cost": "Grass Colorless Colorless Colorless",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/69"
+        ]
+    },
+    {
+        "id": "A1a/3",
+        "name": "Celebi ex",
+        "entry": 3,
+        "rarity": 4,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_003_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Powerful Bloom",
+                "damage": "50x",
+                "cost": "Grass Colorless",
+                "effect": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/75",
+            "A1a/85"
+        ]
+    },
+    {
+        "id": "A1a/4",
+        "name": "Snivy",
+        "entry": 4,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_004_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 70,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Vine Whip",
+                "damage": "40",
+                "cost": "Grass Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/5",
+        "name": "Servine",
+        "entry": 5,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_005_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 80,
+        "stage": "Stage 1",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Vine Whip",
+                "damage": "50",
+                "cost": "Grass Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/6",
+        "name": "Serperior",
+        "entry": 6,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_006_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 110,
+        "stage": "Stage 2",
+        "weakness": "Fire",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Jungle Totem",
+            "effect": "Each Grass Energy attached to your Grass Pokemon provides 2 Grass Energy. This effect doesn't stack."
+        },
+        "moves": [
+            {
+                "name": "Solar Beam",
+                "damage": "70",
+                "cost": "Grass Colorless Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/70"
+        ]
+    },
+    {
+        "id": "A1a/7",
+        "name": "Morelull",
+        "entry": 7,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_007_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Ram",
+                "damage": "20",
+                "cost": "Grass",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/8",
+        "name": "Shiinotic",
+        "entry": 8,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_008_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Fire",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Flickering Spores",
+                "damage": "50",
+                "cost": "Grass Grass",
+                "effect": "Your opponent's Active Pokemon is now Asleep."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/9",
+        "name": "Dhelmise",
+        "entry": 9,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_009_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 100,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Energy Whip",
+                "damage": "20+",
+                "cost": "Grass",
+                "effect": "If this Pokemon has at least 3 extra Grass Energy attached, this attack does 70 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/10",
+        "name": "Ponyta",
+        "entry": 10,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_010_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Stomp",
+                "damage": "10+",
+                "cost": "Fire",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/11",
+        "name": "Rapidash",
+        "entry": 11,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_011_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 100,
+        "stage": "Stage 1",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Rising Lunge",
+                "damage": "40+",
+                "cost": "Fire Colorless",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/12",
+        "name": "Magmar",
+        "entry": 12,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_012_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Fire Blast",
+                "damage": "80",
+                "cost": "Fire Fire",
+                "effect": "Discard 2 Fire Energy from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/13",
+        "name": "Larvesta",
+        "entry": 13,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_013_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Combustion",
+                "damage": "30",
+                "cost": "Fire Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/14",
+        "name": "Volcarona",
+        "entry": 14,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_014_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Water",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Volcanic Ash",
+                "damage": "",
+                "cost": "Fire Fire Colorless",
+                "effect": "Discard 2 Fire Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "P-A/28"
+        ]
+    },
+    {
+        "id": "A1a/15",
+        "name": "Salandit",
+        "entry": 15,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_015_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Venoshock",
+                "damage": "10+",
+                "cost": "Colorless",
+                "effect": "If your opponent's Active Pokemon is Poisoned, this attack does 40 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/71"
+        ]
+    },
+    {
+        "id": "A1a/16",
+        "name": "Salazzle",
+        "entry": 16,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_016_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 80,
+        "stage": "Stage 1",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Poison Claws",
+                "damage": "30",
+                "cost": "Fire",
+                "effect": "Your opponent's Active Pokemon is now Poisoned."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/17",
+        "name": "Magikarp",
+        "entry": 17,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_017_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 30,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Leap Out",
+                "damage": "",
+                "cost": "Water",
+                "effect": "Switch this Pokemon with 1 of your Benched Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/18",
+        "name": "Gyarados ex",
+        "entry": 18,
+        "rarity": 4,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_018_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 180,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Rampaging Whirlpool",
+                "damage": "140",
+                "cost": "Water Water Water Colorless",
+                "effect": "Discard a random Energy from among the Energy attached to all Pokemon (both yours and your opponent's)."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/76"
+        ]
+    },
+    {
+        "id": "A1a/19",
+        "name": "Vaporeon",
+        "entry": 19,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_019_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Wash Out",
+            "effect": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokemon to your Active Water Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Wave Splash",
+                "damage": "60",
+                "cost": "Water Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/72"
+        ]
+    },
+    {
+        "id": "A1a/20",
+        "name": "Finneon",
+        "entry": 20,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_020_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Water Gun",
+                "damage": "20",
+                "cost": "Water",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/21",
+        "name": "Lumineon",
+        "entry": 21,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_021_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 80,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 0,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Aqua Liner",
+                "damage": "",
+                "cost": "Water Water",
+                "effect": "This attack does 50 damage to 1 of your opponent's Benched Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/22",
+        "name": "Chewtle",
+        "entry": 22,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_022_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Bite",
+                "damage": "30",
+                "cost": "Water Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/23",
+        "name": "Drednaw",
+        "entry": 23,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_023_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 130,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Crunch",
+                "damage": "70",
+                "cost": "Water Water Water",
+                "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/24",
+        "name": "Cramorant",
+        "entry": 24,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_024_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Dive",
+                "damage": "60",
+                "cost": "Water Water Colorless",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from\u2014and effects of\u2014attacks done to this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/25",
+        "name": "Pikachu",
+        "entry": 25,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_025_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Circle Circuit",
+                "damage": "10x",
+                "cost": "Lightning",
+                "effect": "This attack does 10 damage for each of your Benched Lightning Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/26",
+        "name": "Raichu",
+        "entry": 26,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_026_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Gigashock",
+                "damage": "60",
+                "cost": "Lightning Lightning Lightning",
+                "effect": "This attack also does 20 damage to each of your opponent's Benched Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/27",
+        "name": "Electabuzz",
+        "entry": 27,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_027_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 70,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Thunder Spear",
+                "damage": "",
+                "cost": "Lightning Lightning",
+                "effect": "This attack does 40 damage to 1 of your opponent's Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/28",
+        "name": "Joltik",
+        "entry": 28,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_028_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 40,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Bug Bite",
+                "damage": "30",
+                "cost": "Lightning",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/29",
+        "name": "Galvantula",
+        "entry": 29,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_029_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 80,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Electroweb",
+                "damage": "70",
+                "cost": "Lightning Lightning",
+                "effect": "During your opponent's next turn, the Defending Pokemon can't retreat."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/30",
+        "name": "Dedenne",
+        "entry": 30,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_030_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Thunder Shock",
+                "damage": "10",
+                "cost": "Lightning",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/73"
+        ]
+    },
+    {
+        "id": "A1a/31",
+        "name": "Mew",
+        "entry": 31,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_031_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psy Report",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": "Your opponent reveals their hand."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/283"
+        ]
+    },
+    {
+        "id": "A1a/32",
+        "name": "Mew ex",
+        "entry": 32,
+        "rarity": 4,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_032_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psyshot",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            },
+            {
+                "name": "Genome Hacking",
+                "damage": "",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/77",
+            "A1a/83",
+            "A1a/86"
+        ]
+    },
+    {
+        "id": "A1a/33",
+        "name": "Sigilyph",
+        "entry": 33,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_033_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Spike Draw",
+                "damage": "10",
+                "cost": "Psychic",
+                "effect": "Draw a card."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/34",
+        "name": "Elgyem",
+        "entry": 34,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_034_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Headbutt",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/35",
+        "name": "Beheeyem",
+        "entry": 35,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_035_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Mind Jack",
+                "damage": "10+",
+                "cost": "Psychic",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/36",
+        "name": "Flab\u00e9b\u00e9",
+        "entry": 36,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_036_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 40,
+        "stage": "Basic",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Hypnotic Gaze",
+                "damage": "",
+                "cost": "Psychic",
+                "effect": "Your opponent's Active Pokemon is now Asleep."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/37",
+        "name": "Floette",
+        "entry": 37,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_037_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 70,
+        "stage": "Stage 1",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Leaf Drain",
+                "damage": "40",
+                "cost": "Psychic",
+                "effect": "Heal 10 damage from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/38",
+        "name": "Florges",
+        "entry": 38,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_038_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 120,
+        "stage": "Stage 2",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Bloomshine",
+                "damage": "80",
+                "cost": "Psychic Psychic",
+                "effect": "Heal 20 damage from each of your Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/39",
+        "name": "Swirlix",
+        "entry": 39,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_039_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Fairy Wind",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/40",
+        "name": "Slurpuff",
+        "entry": 40,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_040_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 100,
+        "stage": "Stage 1",
+        "weakness": "Metal",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Magical Shot",
+                "damage": "60",
+                "cost": "Psychic Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/41",
+        "name": "Mankey",
+        "entry": 41,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_041_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 50,
+        "stage": "Basic",
+        "weakness": "Psychic",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Focus Fist",
+                "damage": "50",
+                "cost": "Fighting",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/42",
+        "name": "Primeape",
+        "entry": 42,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_042_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 80,
+        "stage": "Stage 1",
+        "weakness": "Psychic",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Punch",
+                "damage": "50",
+                "cost": "Fighting",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/43",
+        "name": "Geodude",
+        "entry": 43,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_043_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 70,
+        "stage": "Basic",
+        "weakness": "Grass",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Light Punch",
+                "damage": "30",
+                "cost": "Fighting Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/44",
+        "name": "Graveler",
+        "entry": 44,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_044_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 100,
+        "stage": "Stage 1",
+        "weakness": "Grass",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Lunge Out",
+                "damage": "40",
+                "cost": "Fighting Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/45",
+        "name": "Golem",
+        "entry": 45,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_045_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 160,
+        "stage": "Stage 2",
+        "weakness": "Grass",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Guard Press",
+                "damage": "120",
+                "cost": "Fighting Fighting Fighting Colorless",
+                "effect": "During your opponent's next turn, this Pokemon takes \u221230 damage from attacks."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/46",
+        "name": "Aerodactyl ex",
+        "entry": 46,
+        "rarity": 4,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_046_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 140,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": true,
+        "ability": {
+            "name": "Primeval Law",
+            "effect": "Your opponent can't play any Pokemon from their hand to evolve their Active Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Land Crush",
+                "damage": "80",
+                "cost": "Fighting Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/78",
+            "A1a/84"
+        ]
+    },
+    {
+        "id": "A1a/47",
+        "name": "Marshadow",
+        "entry": 47,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_047_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Psychic",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Revenge",
+                "damage": "40+",
+                "cost": "Fighting Colorless",
+                "effect": "If any of your Pokemon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/74"
+        ]
+    },
+    {
+        "id": "A1a/48",
+        "name": "Stonjourner",
+        "entry": 48,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_048_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 120,
+        "stage": "Basic",
+        "weakness": "Grass",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Mega Kick",
+                "damage": "90",
+                "cost": "Fighting Fighting Fighting",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/49",
+        "name": "Koffing",
+        "entry": 49,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_049_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 70,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Division",
+                "damage": "",
+                "cost": "Darkness",
+                "effect": "Put 1 random Koffing from your deck onto your Bench."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/50",
+        "name": "Weezing",
+        "entry": 50,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_050_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 110,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Smokescreen",
+                "damage": "50",
+                "cost": "Darkness Darkness",
+                "effect": "During your opponent's next turn, if the Defending Pokemon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/51",
+        "name": "Purrloin",
+        "entry": 51,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_051_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Grass",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Scratch",
+                "damage": "20",
+                "cost": "Darkness",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/52",
+        "name": "Liepard",
+        "entry": 52,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_052_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Grass",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Slash",
+                "damage": "40",
+                "cost": "Darkness",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/53",
+        "name": "Venipede",
+        "entry": 53,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_053_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Ram",
+                "damage": "20",
+                "cost": "Darkness",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/54",
+        "name": "Whirlipede",
+        "entry": 54,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_054_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Poison Sting",
+                "damage": "20",
+                "cost": "Darkness",
+                "effect": "Your opponent's Active Pokemon is now Poisoned."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/55",
+        "name": "Scolipede",
+        "entry": 55,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_055_EN.webp",
+        "layout": "Pokemon",
+        "type": "Darkness",
+        "hp": 140,
+        "stage": "Stage 2",
+        "weakness": "Fighting",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Venoshock",
+                "damage": "70+",
+                "cost": "Darkness Colorless",
+                "effect": "If your opponent's Active Pokemon is Poisoned, this attack does 50 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/56",
+        "name": "Druddigon",
+        "entry": 56,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_056_EN.webp",
+        "layout": "Pokemon",
+        "type": "Dragon",
+        "hp": 100,
+        "stage": "Basic",
+        "weakness": "None",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Rough Skin",
+            "effect": "If this Pokemon is in the Active Spot and is damaged by an attack from your opponent's Pokemon, do 20 damage to the Attacking Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Dragon Claw",
+                "damage": "90",
+                "cost": "Fire Water Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/57",
+        "name": "Pidgey",
+        "entry": 57,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_057_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 50,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Flap",
+                "damage": "20",
+                "cost": "Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/58",
+        "name": "Pidgeotto",
+        "entry": 58,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_058_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Wing Attack",
+                "damage": "50",
+                "cost": "Colorless Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/59",
+        "name": "Pidgeot ex",
+        "entry": 59,
+        "rarity": 4,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_059_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 170,
+        "stage": "Stage 2",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Scattering Cyclone",
+                "damage": "80+",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/79"
+        ]
+    },
+    {
+        "id": "A1a/60",
+        "name": "Tauros",
+        "entry": 60,
+        "rarity": 3,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_060_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 100,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Fighting Tackle",
+                "damage": "40+",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "If your opponent's Active Pokemon is a Pokemon  more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/61",
+        "name": "Eevee",
+        "entry": 61,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_061_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Continuous Steps",
+                "damage": "20x",
+                "cost": "Colorless",
+                "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/62",
+        "name": "Chatot",
+        "entry": 62,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_062_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Mimic",
+                "damage": "",
+                "cost": "Colorless",
+                "effect": "Shuffle your hand into your deck. Draw a card for each card in your opponent's hand."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "A1a/63",
+        "name": "Old Amber",
+        "entry": 63,
+        "rarity": 1,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_063_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 40,
+        "effect": "Play this card as if it were a 40-HP Basic Colorless Pokemon. At any time during your turn, you may discard this card from play. This card can't retreat.",
+        "versions": [
+            "A1/218"
+        ]
+    },
+    {
+        "id": "A1a/64",
+        "name": "Pok\u00e9mon Flute",
+        "entry": 64,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_064_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Put a Basic Pokemon from your opponent's discard pile onto their Bench.",
+        "versions": []
+    },
+    {
+        "id": "A1a/65",
+        "name": "Mythical Slab",
+        "entry": 65,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_065_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Look at the top card of your deck. If that card is a Psychic Pokemon, put it into your hand. If it is not a Psychic Pokemon, put it on the bottom of your deck.",
+        "versions": []
+    },
+    {
+        "id": "A1a/66",
+        "name": "Budding Expeditioner",
+        "entry": 66,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_066_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "Put your Mew ex in the Active Spot into your hand.",
+        "versions": [
+            "A1a/80"
+        ]
+    },
+    {
+        "id": "A1a/67",
+        "name": "Blue",
+        "entry": 67,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_067_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "During your opponent's next turn, all of your Pokemon take \u221210 damage from attacks from your opponent's Pokemon.",
+        "versions": [
+            "A1a/81"
+        ]
+    },
+    {
+        "id": "A1a/68",
+        "name": "Leaf",
+        "entry": 68,
+        "rarity": 2,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_068_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "During this turn, the Retreat Cost of your Active Pokemon is 2 less.",
+        "versions": [
+            "A1a/82"
+        ]
+    },
+    {
+        "id": "A1a/69",
+        "name": "Exeggutor",
+        "entry": 69,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_069_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 130,
+        "stage": "Stage 1",
+        "weakness": "Fire",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psychic",
+                "damage": "80+",
+                "cost": "Grass Colorless Colorless Colorless",
+                "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/2"
+        ]
+    },
+    {
+        "id": "A1a/70",
+        "name": "Serperior",
+        "entry": 70,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_070_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 110,
+        "stage": "Stage 2",
+        "weakness": "Fire",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Jungle Totem",
+            "effect": "Each Grass Energy attached to your Grass Pokemon provides 2 Grass Energy. This effect doesn't stack."
+        },
+        "moves": [
+            {
+                "name": "Solar Beam",
+                "damage": "70",
+                "cost": "Grass Colorless Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/6"
+        ]
+    },
+    {
+        "id": "A1a/71",
+        "name": "Salandit",
+        "entry": 71,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_071_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Venoshock",
+                "damage": "10+",
+                "cost": "Colorless",
+                "effect": "If your opponent's Active Pokemon is Poisoned, this attack does 40 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/15"
+        ]
+    },
+    {
+        "id": "A1a/72",
+        "name": "Vaporeon",
+        "entry": 72,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_072_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Wash Out",
+            "effect": "As often as you like during your turn, you may move a Water Energy from 1 of your Benched Water Pokemon to your Active Water Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Wave Splash",
+                "damage": "60",
+                "cost": "Water Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/19"
+        ]
+    },
+    {
+        "id": "A1a/73",
+        "name": "Dedenne",
+        "entry": 73,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_073_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Thunder Shock",
+                "damage": "10",
+                "cost": "Lightning",
+                "effect": "Flip a coin. If heads, your opponent's Active Pokemon is now Paralyzed."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/30"
+        ]
+    },
+    {
+        "id": "A1a/74",
+        "name": "Marshadow",
+        "entry": 74,
+        "rarity": 5,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_074_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Psychic",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Revenge",
+                "damage": "40+",
+                "cost": "Fighting Colorless",
+                "effect": "If any of your Pokemon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/47"
+        ]
+    },
+    {
+        "id": "A1a/75",
+        "name": "Celebi ex",
+        "entry": 75,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_075_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Powerful Bloom",
+                "damage": "50x",
+                "cost": "Grass Colorless",
+                "effect": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/3",
+            "A1a/85"
+        ]
+    },
+    {
+        "id": "A1a/76",
+        "name": "Gyarados ex",
+        "entry": 76,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_076_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 180,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Rampaging Whirlpool",
+                "damage": "140",
+                "cost": "Water Water Water Colorless",
+                "effect": "Discard a random Energy from among the Energy attached to all Pokemon (both yours and your opponent's)."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/18"
+        ]
+    },
+    {
+        "id": "A1a/77",
+        "name": "Mew ex",
+        "entry": 77,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_077_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psyshot",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            },
+            {
+                "name": "Genome Hacking",
+                "damage": "",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/32",
+            "A1a/83",
+            "A1a/86"
+        ]
+    },
+    {
+        "id": "A1a/78",
+        "name": "Aerodactyl ex",
+        "entry": 78,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_078_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 140,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": true,
+        "ability": {
+            "name": "Primeval Law",
+            "effect": "Your opponent can't play any Pokemon from their hand to evolve their Active Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Land Crush",
+                "damage": "80",
+                "cost": "Fighting Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/46",
+            "A1a/84"
+        ]
+    },
+    {
+        "id": "A1a/79",
+        "name": "Pidgeot ex",
+        "entry": 79,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_079_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 170,
+        "stage": "Stage 2",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Scattering Cyclone",
+                "damage": "80+",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "This attack does 20 more damage for each of your opponent's Benched Pokemon."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/59"
+        ]
+    },
+    {
+        "id": "A1a/80",
+        "name": "Budding Expeditioner",
+        "entry": 80,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_080_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "Put your Mew ex in the Active Spot into your hand.",
+        "versions": [
+            "A1a/66"
+        ]
+    },
+    {
+        "id": "A1a/81",
+        "name": "Blue",
+        "entry": 81,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_081_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "During your opponent's next turn, all of your Pokemon take \u221210 damage from attacks from your opponent's Pokemon.",
+        "versions": [
+            "A1a/67"
+        ]
+    },
+    {
+        "id": "A1a/82",
+        "name": "Leaf",
+        "entry": 82,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_082_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "During this turn, the Retreat Cost of your Active Pokemon is 2 less.",
+        "versions": [
+            "A1a/68"
+        ]
+    },
+    {
+        "id": "A1a/83",
+        "name": "Mew ex",
+        "entry": 83,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_083_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psyshot",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            },
+            {
+                "name": "Genome Hacking",
+                "damage": "",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/32",
+            "A1a/77",
+            "A1a/86"
+        ]
+    },
+    {
+        "id": "A1a/84",
+        "name": "Aerodactyl ex",
+        "entry": 84,
+        "rarity": 6,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_084_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 140,
+        "stage": "Stage 1",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": true,
+        "ability": {
+            "name": "Primeval Law",
+            "effect": "Your opponent can't play any Pokemon from their hand to evolve their Active Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Land Crush",
+                "damage": "80",
+                "cost": "Fighting Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/46",
+            "A1a/78"
+        ]
+    },
+    {
+        "id": "A1a/85",
+        "name": "Celebi ex",
+        "entry": 85,
+        "rarity": 7,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_085_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Powerful Bloom",
+                "damage": "50x",
+                "cost": "Grass Colorless",
+                "effect": "Flip a coin for each Energy attached to this Pokemon. This attack does 50 damage for each heads."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/3",
+            "A1a/75"
+        ]
+    },
+    {
+        "id": "A1a/86",
+        "name": "Mew ex",
+        "entry": 86,
+        "rarity": 8,
+        "source": "Mew Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_086_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 130,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Psyshot",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            },
+            {
+                "name": "Genome Hacking",
+                "damage": "",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "Choose 1 of your opponent's Active Pokemon's attacks and use it as this attack."
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1a/32",
+            "A1a/77",
+            "A1a/83"
+        ]
+    }
+]

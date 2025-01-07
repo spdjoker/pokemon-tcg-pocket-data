@@ -1,0 +1,799 @@
+[
+    {
+        "id": "P-A/1",
+        "name": "Potion",
+        "entry": 1,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_001_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Heal 20 damage from 1 of your Pokemon.",
+        "versions": []
+    },
+    {
+        "id": "P-A/2",
+        "name": "X Speed",
+        "entry": 2,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_002_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "During this turn, the Retreat Cost of your Active Pokemon is 1 less.",
+        "versions": []
+    },
+    {
+        "id": "P-A/3",
+        "name": "Hand Scope",
+        "entry": 3,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_003_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Your opponent reveals their hand.",
+        "versions": []
+    },
+    {
+        "id": "P-A/4",
+        "name": "Pok\u00e9dex",
+        "entry": 4,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_004_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Look at the top 3 cards of your deck.",
+        "versions": [
+            "P-A/8"
+        ]
+    },
+    {
+        "id": "P-A/5",
+        "name": "Pok\u00e9 Ball",
+        "entry": 5,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_005_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Put 1 random Basic Pokemon from your deck into your hand.",
+        "versions": []
+    },
+    {
+        "id": "P-A/6",
+        "name": "Red Card",
+        "entry": 6,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_006_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Your opponent shuffles their hand into their deck and draws 3 cards.",
+        "versions": []
+    },
+    {
+        "id": "P-A/7",
+        "name": "Professor's Research",
+        "entry": 7,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_007_EN.webp",
+        "layout": "Trainer",
+        "type": "Supporter",
+        "hp": 0,
+        "effect": "Draw 2 cards.",
+        "versions": []
+    },
+    {
+        "id": "P-A/8",
+        "name": "Pok\u00e9dex",
+        "entry": 8,
+        "rarity": 0,
+        "source": "Campaign",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_008_EN.webp",
+        "layout": "Trainer",
+        "type": "Item",
+        "hp": 0,
+        "effect": "Look at the top 3 cards of your deck.",
+        "versions": [
+            "P-A/4"
+        ]
+    },
+    {
+        "id": "P-A/9",
+        "name": "Pikachu",
+        "entry": 9,
+        "rarity": 0,
+        "source": "Shop",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Gnaw",
+                "damage": "20",
+                "cost": "Lightning",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/94",
+            "P-A/15",
+            "P-A/26"
+        ]
+    },
+    {
+        "id": "P-A/10",
+        "name": "Mewtwo",
+        "entry": 10,
+        "rarity": 0,
+        "source": "Missions",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 120,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Power Blast",
+                "damage": "120",
+                "cost": "Psychic Psychic Colorless Colorless",
+                "effect": "Discard 2 Psychic Energy from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/128"
+        ]
+    },
+    {
+        "id": "P-A/11",
+        "name": "Chansey",
+        "entry": 11,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_011_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 120,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Gentle Slap",
+                "damage": "60",
+                "cost": "Colorless Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/202"
+        ]
+    },
+    {
+        "id": "P-A/12",
+        "name": "Meowth",
+        "entry": 12,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_012_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Pay Day",
+                "damage": "10",
+                "cost": "Colorless",
+                "effect": "Draw 1 card."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/196",
+            "A1/246"
+        ]
+    },
+    {
+        "id": "P-A/13",
+        "name": "Butterfree",
+        "entry": 13,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_013_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 120,
+        "stage": "Stage 2",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": true,
+        "ability": {
+            "name": "Powder Heal",
+            "effect": "Once during your turn, you may heal 20 damage from each of your Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Gust",
+                "damage": "60",
+                "cost": "Grass Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/7"
+        ]
+    },
+    {
+        "id": "P-A/14",
+        "name": "Lapras ex",
+        "entry": 14,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_014_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 140,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Bubble Drain",
+                "damage": "80",
+                "cost": "Water Water Colorless",
+                "effect": "Heal 20 damage from this Pokemon."
+            }
+        ],
+        "is_ex": true,
+        "versions": []
+    },
+    {
+        "id": "P-A/15",
+        "name": "Pikachu",
+        "entry": 15,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_015_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Gnaw",
+                "damage": "20",
+                "cost": "Lightning",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/94",
+            "P-A/9",
+            "P-A/26"
+        ]
+    },
+    {
+        "id": "P-A/16",
+        "name": "Clefairy",
+        "entry": 16,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_016_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Slap",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/113"
+        ]
+    },
+    {
+        "id": "P-A/17",
+        "name": "Mankey",
+        "entry": 17,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_017_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Psychic",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Reckless Charge",
+                "damage": "30",
+                "cost": "Fighting",
+                "effect": "This Pokemon also does 10 damage to itself."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/18",
+        "name": "Venusaur",
+        "entry": 18,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_018_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 160,
+        "stage": "Stage 2",
+        "weakness": "Fire",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Mega Drain",
+                "damage": "80",
+                "cost": "Grass Grass Colorless Colorless",
+                "effect": "Heal 30 damage from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/3"
+        ]
+    },
+    {
+        "id": "P-A/19",
+        "name": "Greninja",
+        "entry": 19,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_019_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 120,
+        "stage": "Stage 2",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": true,
+        "ability": {
+            "name": "Water Shuriken",
+            "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Mist Slash",
+                "damage": "60",
+                "cost": "Water Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/89"
+        ]
+    },
+    {
+        "id": "P-A/20",
+        "name": "Haunter",
+        "entry": 20,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_020_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 70,
+        "stage": "Stage 1",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Surprise Attack",
+                "damage": "50",
+                "cost": "Psychic",
+                "effect": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/21",
+        "name": "Onix",
+        "entry": 21,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_021_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fighting",
+        "hp": 110,
+        "stage": "Basic",
+        "weakness": "Grass",
+        "retreat": 4,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Land Crush",
+                "damage": "70",
+                "cost": "Fighting Fighting Fighting",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/150"
+        ]
+    },
+    {
+        "id": "P-A/22",
+        "name": "Jigglypuff",
+        "entry": 22,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_022_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Sing",
+                "damage": "",
+                "cost": "Colorless",
+                "effect": "Your opponent's Active Pokemon is now Asleep."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/23",
+        "name": "Bulbasaur",
+        "entry": 23,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_023_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 70,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Vine Whip",
+                "damage": "40",
+                "cost": "Grass Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/1",
+            "A1/227"
+        ]
+    },
+    {
+        "id": "P-A/24",
+        "name": "Magnemite",
+        "entry": 24,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_024_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Lightning Ball",
+                "damage": "20",
+                "cost": "Lightning",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/97"
+        ]
+    },
+    {
+        "id": "P-A/25",
+        "name": "Moltres ex",
+        "entry": 25,
+        "rarity": 0,
+        "source": "Missions",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 140,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Inferno Dance",
+                "damage": "",
+                "cost": "Fire",
+                "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokemon in any way you like."
+            },
+            {
+                "name": "Heat Blast",
+                "damage": "70",
+                "cost": "Fire Colorless Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": true,
+        "versions": [
+            "A1/47",
+            "A1/255",
+            "A1/274"
+        ]
+    },
+    {
+        "id": "P-A/26",
+        "name": "Pikachu",
+        "entry": 26,
+        "rarity": 0,
+        "source": "Campaign",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_026_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Gnaw",
+                "damage": "20",
+                "cost": "Lightning",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/94",
+            "P-A/9",
+            "P-A/15"
+        ]
+    },
+    {
+        "id": "P-A/27",
+        "name": "Snivy",
+        "entry": 27,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_027_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Tackle",
+                "damage": "20",
+                "cost": "Grass",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/28",
+        "name": "Volcarona",
+        "entry": 28,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_028_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Water",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Volcanic Ash",
+                "damage": "",
+                "cost": "Fire Fire Colorless",
+                "effect": "Discard 2 Fire Energy from this Pokemon. This attack does 80 damage to 1 of your opponent's Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1a/14"
+        ]
+    },
+    {
+        "id": "P-A/29",
+        "name": "Blastoise",
+        "entry": 29,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_029_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 150,
+        "stage": "Stage 2",
+        "weakness": "Lightning",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Hydro Pump",
+                "damage": "80+",
+                "cost": "Water Water Colorless",
+                "effect": "If this Pokemon has at least 2 extra Water Energy attached, this attack does 60 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/55"
+        ]
+    },
+    {
+        "id": "P-A/30",
+        "name": "Eevee",
+        "entry": 30,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_030_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Growl",
+                "damage": "",
+                "cost": "Colorless",
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokemon do \u221220 damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/31",
+        "name": "Cinccino",
+        "entry": 31,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_031_EN.webp",
+        "layout": "Pokemon",
+        "type": "Colorless",
+        "hp": 90,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Do the Wave",
+                "damage": "30x",
+                "cost": "Colorless Colorless Colorless",
+                "effect": "This attack does 30 damage for each of your Benched Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/213"
+        ]
+    },
+    {
+        "id": "P-A/32",
+        "name": "Charmander",
+        "entry": 32,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_032_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Ember",
+                "damage": "30",
+                "cost": "Fire",
+                "effect": "Discard a Fire Energy from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/33",
+            "A1/230"
+        ]
+    },
+    {
+        "id": "P-A/33",
+        "name": "Squirtle",
+        "entry": 33,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_033_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Water Gun",
+                "damage": "20",
+                "cost": "Water",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A1/53",
+            "A1/232"
+        ]
+    }
+]
