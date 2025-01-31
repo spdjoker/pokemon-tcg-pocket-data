@@ -112,7 +112,7 @@
         "name": "Pikachu",
         "entry": 9,
         "rarity": 0,
-        "source": "Shop",
+        "source": "Premium Missions",
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_009_EN.webp",
         "layout": "Pokemon",
         "type": "Lightning",
@@ -141,7 +141,7 @@
         "name": "Mewtwo",
         "entry": 10,
         "rarity": 0,
-        "source": "Missions",
+        "source": "Premium Missions",
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_010_EN.webp",
         "layout": "Pokemon",
         "type": "Psychic",
@@ -550,7 +550,7 @@
         "name": "Moltres ex",
         "entry": 25,
         "rarity": 0,
-        "source": "Missions",
+        "source": "Premium Missions",
         "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_025_EN.webp",
         "layout": "Pokemon",
         "type": "Fire",
@@ -794,6 +794,222 @@
         "versions": [
             "A1/53",
             "A1/232"
+        ]
+    },
+    {
+        "id": "P-A/34",
+        "name": "Piplup",
+        "entry": 34,
+        "rarity": 0,
+        "source": "Premium Missions",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_034_EN.webp",
+        "layout": "Pokemon",
+        "type": "Water",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Nap",
+                "damage": "",
+                "cost": "Colorless",
+                "effect": "Heal 20 damage from this Pokemon."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/35"
+        ]
+    },
+    {
+        "id": "P-A/35",
+        "name": "Turtwig",
+        "entry": 35,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_035_EN.webp",
+        "layout": "Pokemon",
+        "type": "Grass",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Fire",
+        "retreat": 2,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Bite",
+                "damage": "30",
+                "cost": "Grass Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/10"
+        ]
+    },
+    {
+        "id": "P-A/36",
+        "name": "Electivire",
+        "entry": 36,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_036_EN.webp",
+        "layout": "Pokemon",
+        "type": "Lightning",
+        "hp": 120,
+        "stage": "Stage 1",
+        "weakness": "Fighting",
+        "retreat": 3,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Exciting Voltage",
+                "damage": "40+",
+                "cost": "Lightning Lightning",
+                "effect": "If this Pokemon has at least 2 extra Lightning Energy attached, this attack does 80 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/57"
+        ]
+    },
+    {
+        "id": "P-A/37",
+        "name": "Cresselia ex",
+        "entry": 37,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_037_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 140,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 2,
+        "has_ability": true,
+        "ability": {
+            "name": "Lunar Plumage",
+            "effect": "Whenever you attach a Psychic Energy from your Energy Zone to this Pokemon, heal 20 damage from this Pokemon."
+        },
+        "moves": [
+            {
+                "name": "Psychic Flash",
+                "damage": "80",
+                "cost": "Psychic Psychic Colorless",
+                "effect": ""
+            }
+        ],
+        "is_ex": true,
+        "versions": []
+    },
+    {
+        "id": "P-A/38",
+        "name": "Misdreavus",
+        "entry": 38,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_038_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Darkness",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Confuse Ray",
+                "damage": "",
+                "cost": "Psychic",
+                "effect": "Your opponent's Active Pokemon is now Confused."
+            }
+        ],
+        "is_ex": false,
+        "versions": []
+    },
+    {
+        "id": "P-A/39",
+        "name": "Skarmory",
+        "entry": 39,
+        "rarity": 0,
+        "source": "Promo Pack",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_039_EN.webp",
+        "layout": "Pokemon",
+        "type": "Metal",
+        "hp": 80,
+        "stage": "Basic",
+        "weakness": "Lightning",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Metal Arms",
+                "damage": "20+",
+                "cost": "Metal",
+                "effect": "If this Pokemon has a Pokemon Tool attached, this attack does 30 more damage."
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/111"
+        ]
+    },
+    {
+        "id": "P-A/40",
+        "name": "Chimchar",
+        "entry": 40,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_040_EN.webp",
+        "layout": "Pokemon",
+        "type": "Fire",
+        "hp": 60,
+        "stage": "Basic",
+        "weakness": "Water",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Scratch",
+                "damage": "20",
+                "cost": "Fire",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/27"
+        ]
+    },
+    {
+        "id": "P-A/41",
+        "name": "Togepi",
+        "entry": 41,
+        "rarity": 0,
+        "source": "Wonder Pick",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-A/P-A_041_EN.webp",
+        "layout": "Pokemon",
+        "type": "Psychic",
+        "hp": 50,
+        "stage": "Basic",
+        "weakness": "Metal",
+        "retreat": 1,
+        "has_ability": false,
+        "moves": [
+            {
+                "name": "Pound",
+                "damage": "20",
+                "cost": "Psychic",
+                "effect": ""
+            }
+        ],
+        "is_ex": false,
+        "versions": [
+            "A2/63"
         ]
     }
 ]
