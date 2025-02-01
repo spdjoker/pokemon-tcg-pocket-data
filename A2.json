@@ -812,7 +812,7 @@
         "has_ability": true,
         "ability": {
             "name": "Thick Fat",
-            "effect": "This Pokemon takes \u221220 damage from attacks from Fire or Water Pokemon."
+            "effect": "This Pokemon takes -20 damage from attacks from Fire or Water Pokemon."
         },
         "moves": [
             {
@@ -841,7 +841,7 @@
         "has_ability": true,
         "ability": {
             "name": "Thick Fat",
-            "effect": "This Pokemon takes \u221230 damage from attacks from Fire or Water Pokemon."
+            "effect": "This Pokemon takes -30 damage from attacks from Fire or Water Pokemon."
         },
         "moves": [
             {
@@ -1681,7 +1681,7 @@
                 "name": "Overdrive Smash",
                 "damage": "60",
                 "cost": "Psychic Psychic",
-                "effect": "During your next turn, this Pokemon's  attack does +60 damage."
+                "effect": "During your next turn, this Pokemon's Overdrive Smash attack does +60 damage."
             }
         ],
         "is_ex": false,
@@ -1888,7 +1888,7 @@
                 "name": "Expand",
                 "damage": "10",
                 "cost": "Psychic",
-                "effect": "During your opponent's next turn, this Pokemon takes \u221220 damage from attacks."
+                "effect": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
             }
         ],
         "is_ex": false,
@@ -2249,7 +2249,7 @@
         "has_ability": true,
         "ability": {
             "name": "Exoskeleton",
-            "effect": "This Pokemon takes \u221220 damage from attacks."
+            "effect": "This Pokemon takes -20 damage from attacks."
         },
         "moves": [
             {
@@ -2955,7 +2955,7 @@
         "has_ability": true,
         "ability": {
             "name": "Guarded Grill",
-            "effect": "If any damage is done to this Pokemon by attacks, flip a coin. If heads, this Pokemon takes \u2212100 damage from that attack."
+            "effect": "If any damage is done to this Pokemon by attacks, flip a coin. If heads, this Pokemon takes -100 damage from that attack."
         },
         "moves": [
             {
@@ -3037,7 +3037,7 @@
                 "name": "Guard Press",
                 "damage": "60",
                 "cost": "Metal Metal Colorless",
-                "effect": "During your opponent's next turn, this Pokemon takes \u221220 damage from attacks."
+                "effect": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
             }
         ],
         "is_ex": false,
@@ -4018,7 +4018,7 @@
         "has_ability": true,
         "ability": {
             "name": "Thick Fat",
-            "effect": "This Pokemon takes \u221230 damage from attacks from Fire or Water Pokemon."
+            "effect": "This Pokemon takes -30 damage from attacks from Fire or Water Pokemon."
         },
         "moves": [
             {
@@ -4160,7 +4160,7 @@
                 "name": "Expand",
                 "damage": "10",
                 "cost": "Psychic",
-                "effect": "During your opponent's next turn, this Pokemon takes \u221220 damage from attacks."
+                "effect": "During your opponent's next turn, this Pokemon takes -20 damage from attacks."
             }
         ],
         "is_ex": false,

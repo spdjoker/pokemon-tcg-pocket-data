@@ -707,7 +707,7 @@
                 "name": "Growl",
                 "damage": "",
                 "cost": "Colorless",
-                "effect": "During your opponent's next turn, attacks used by the Defending Pokemon do \u221220 damage."
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokemon do -20 damage."
             }
         ],
         "is_ex": false,
